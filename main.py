@@ -2,11 +2,12 @@ import streamlit as st
 import pandas as pd
 import os
 import random
+import time
 
 # --- Page Config ---
 st.set_page_config(page_title="Vocab Quiz", page_icon="📝", layout="centered")
 
-st.header("📝 Vocabulary Quiz [NAWL]")
+st.markdown("<h1>📝<u><i>Vocabulary Quiz</i></u></h1>" , unsafe_allow_html=True)
 
 # --- CSS Fix for Buttons and UI ---
 st.markdown("""
@@ -76,24 +77,55 @@ st.markdown("""
 
 # --- App Logic ---
 
-def load_data():
-    if not os.path.exists("words.csv"):
-        st.error("File 'words.csv' not found. Please place it in the same folder.")
-        st.stop()
-    df = pd.read_csv("words.csv")
-    df.columns = df.columns.str.strip()
-    return df
+SESSION_SIZE = 25
+CSV_FILE = "words.csv"
 
-def init_game():
+def load_data():
+    if not os.path.exists(CSV_FILE):
+        st.error(f"File '{CSV_FILE}' not found. Please place it in the same folder.")
+        st.stop()
+    
+    try:
+        df = pd.read_csv(CSV_FILE)
+        # Clean column names
+        df.columns = df.columns.str.strip()
+        # Clean string data
+        if 'Word' in df.columns:
+            df['Word'] = df['Word'].astype(str).str.strip()
+        return df
+    except pd.errors.EmptyDataError:
+        return pd.DataFrame() # Return empty if file is empty
+
+def init_session():
     df = load_data()
+    
+    if df.empty:
+        st.session_state.game_over = True
+        return
+
+    st.session_state.game_over = False
+    
+    # Get all potential meanings for distractors
     all_meanings = df['Meaning'].unique().tolist()
     
+    # --- UPDATED LOGIC HERE ---
+    # Instead of head(), we use sample() to get random words.
+    # We use min() to handle cases where the CSV has fewer words than SESSION_SIZE
+    sample_n = min(len(df), SESSION_SIZE)
+    current_batch = df.sample(n=sample_n)
+    
     questions = []
-    # Follows CSV order
-    for _, row in df.iterrows():
+    
+    for _, row in current_batch.iterrows():
+        # Generate distractors
         distractors = [m for m in all_meanings if m != row['Meaning']]
-        opts = random.sample(distractors, min(3, len(distractors)))
-        opts.append(row['Meaning'])
+        # Handle case where there aren't enough distractors
+        if len(distractors) < 3:
+            opts = distractors + [row['Meaning']]
+        else:
+            opts = random.sample(distractors, 3)
+            opts.append(row['Meaning'])
+            
         random.shuffle(opts)
         
         questions.append({
@@ -107,27 +139,58 @@ def init_game():
     st.session_state.index = 0
     st.session_state.score = 0
     st.session_state.submitted = False
+    st.session_state.start_time = time.time() # Start Timer
 
-if 'questions' not in st.session_state:
-    init_game()
+if 'questions' not in st.session_state or 'game_over' not in st.session_state:
+    init_session()
 
 # --- Quiz UI ---
 
-if st.session_state.index >= len(st.session_state.questions):
-    st.markdown("<div style='text-align:center; padding: 50px;'>", unsafe_allow_html=True)
-    st.markdown("<h1>Quiz Finished!</h1>", unsafe_allow_html=True)
-    st.markdown(f"<h2>Final Score: {st.session_state.score} / {len(st.session_state.questions)}</h2>", unsafe_allow_html=True)
-    if st.button("Restart Quiz"):
-        init_game()
-        st.rerun()
+# Check if global list is finished (empty csv check)
+if st.session_state.get('game_over', False):
+    st.markdown("<div style='text-align:center;'>", unsafe_allow_html=True)
+    st.markdown("<h1>⚠️ CSV is empty!</h1>", unsafe_allow_html=True)
     st.markdown("</div>", unsafe_allow_html=True)
     st.stop()
 
+# Check if Session is finished
+if st.session_state.index >= len(st.session_state.questions):
+    end_time = time.time()
+    total_time = end_time - st.session_state.start_time
+    minutes = int(total_time // 60)
+    seconds = int(total_time % 60)
+    
+    total_q = len(st.session_state.questions)
+    percentage = int((st.session_state.score / total_q) * 100) if total_q > 0 else 0
+
+    st.markdown("<div style='text-align:center; padding: 10px;'>", unsafe_allow_html=True)
+    st.markdown("<h2>Session Complete!</h2>", unsafe_allow_html=True)
+    
+    # Score Display
+    st.markdown(f"<h3 style='color: #4285f4 !important;'>Score: {percentage}%</h3>", unsafe_allow_html=True)
+    st.markdown(f"<p style='font-size: 18px;'>You got {st.session_state.score} out of {total_q} correct.</p>", unsafe_allow_html=True)
+    
+    # Time Display
+    st.markdown(f"<p style='font-size: 18px; color: #666 !important;'>⏱ Time Taken: {minutes}m {seconds}s</p>", unsafe_allow_html=True)
+    
+    st.markdown("---")
+    
+    # Removed text saying "words have been removed"
+    
+    if st.button("Start New Session ➔"):
+        # We clear the state to force init_session to run again and pick new random words
+        del st.session_state.questions
+        st.rerun()
+        
+    st.markdown("</div>", unsafe_allow_html=True)
+    st.stop()
+
+# --- Display Current Question ---
+
 q = st.session_state.questions[st.session_state.index]
 
-st.write(f"Word {st.session_state.index + 1} of {len(st.session_state.questions)} | Score: {st.session_state.score} / {st.session_state.index + 1}")
-# The Main Word Card
-
+st.progress((st.session_state.index) / len(st.session_state.questions))
+st.caption(f"Question {st.session_state.index + 1} of {len(st.session_state.questions)}")
 
 # Question Area
 if not st.session_state.submitted:
@@ -143,7 +206,7 @@ if not st.session_state.submitted:
     elif q['pos'] == "prep":
         pos = "Preposition"
     else:
-        pos = "Undefined"
+        pos = "Word"
 
     st.markdown(f"""
 <div class="word-card">
@@ -151,6 +214,7 @@ if not st.session_state.submitted:
     <h1 style="font-size: 48px; margin: 10px 0;">{q['word']}</h1>
 </div>
     """, unsafe_allow_html=True)
+    
     # Use Radio buttons
     choice = st.radio(
         "Select the meaning:",
@@ -181,9 +245,10 @@ else:
     """, unsafe_allow_html=True)
 
     st.write("") # Spacer
+    
+    # Logic to proceed WITHOUT deleting word
     if st.button("Next Question ➔"):
+        # 1. Advance the game state
         st.session_state.index += 1
         st.session_state.submitted = False
         st.rerun()
-
-# Bottom Score Tracker

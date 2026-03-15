@@ -1,959 +1,1593 @@
 ﻿Word,Meaning,Pos
-afterward,happening after something else happened,adv
-amongst,in or through a group,prep
-artistic,"Being able to paint, write music, etc.; creative",adj
-backward,toward what is behind you,adv
-bodily,"physically, as when lifting someone",adv
-carrier,"a company, usually an airline, that carries things",n
-collective,formed by working together as a group,adj
-computation,the act of calculating; method of computing,n
-continuity,continued existence; fact of not stopping,n
-definite,Not likely to change; clearly decided,adj
-freely,"(living, existing) without being controlled",adv
-generalization,making a statement about a group from limited data,n
-generalize,To apply a particular idea to a large group,verb
-goodness,nourishment; good food value,n
-historically,throughout history,adv
-importantly,in an important way; ,adv
-interestingly,you'll find this surprising; in an interesting way,adv
-locally,Concerning the area around where you are,adj
-machinery,machines in general,n
-marker,something that is easy to recognize or identify,n
-meaningful,Having importance; showing someone's intention,adj
-namely,"that is to say, specifically",adv
-nationalism,"The spirit of love of your country, e.g. leading to war",n
-neat,Not messy; clean and orderly; simple and effective,adj
-nicely,in a pleasing way; in a polite way,adv
-noisy,full of noise; loud,adj
-outer,on or around something,adj
-painful,causing or feeling physical pain or hurt,adj
-pardon,to excuse,verb
-parental,"concerning, or provided by, a parent",adj
-partial,not complete; being only part of something,adj
-partially,in part; in some degree; not wholly,adv
-photographic,concerning the art of making images with cameras,adj
-planner,notebook for recording appointments or things to do,n
-problematic,being difficult to deal with or fix,adj
-readily,in a quick and easy manner,adv
-realism,"accepting things as they are, not as you want",n
-realistic,looks or appears real; like things really are,adj
-rewrite,"to write again to improve, or correct errors",verb
-ruler,someone who has control over a country or area,n
-sexuality,characterized and distinguished by sex,n
-simplify,"to make something easier to do, use or understand",verb
-sometime,at an unknown time in the future,adj
-specialty,the specific area of your field,n
-subset,a small set which is part of a larger set,n
-supposedly,as some people believe (shows you doubt it),adv
-systematic,"done in a thorough, logical or planned way",adj
-terribly,to an extreme degree; badly; very,adv
-thickness,the distance between the opposite edges of a thing,n
-underneath,below or beneath something; under,adv
-unemployed,being without a job; jobless,adj
-whichever,whatever one,det
-whoever,whatever person; any person at all,pron
-accent,a way of speaking that shows your dialect or class,n
-actively,doing things to achieve a specific goal,adv
-adaptation,changing to a new form; thing that is changed,n
-adaptive,able to adjust to new conditions,adj
-apple,hard round red or green fruit with a white center,n
-authority,"people in positions of power, able to decide things",n
-availability,being present and able to be used,n
-bang,to strike something loudly or forcefully,verb
-bat,object used for hitting a ball in various games,n
-blank,being empty; not filled out; with no writing on it,adj
-bleed,to lose blood because of an injury,verb
-bound,to go to a specified place; to jump,verb
-broadly,in a general (not detailed) manner,adv
-bucket,open container with a handle used to carry liquids,n
-calculation,process or result of using mathematics,n
-calculator,a small electronic device used for calculation,n
-characterization,the way someone or something is described,n
-cheat,To act in dishonest manner to gain an advantage,verb
-cheers,a toast used when raising your glass to drink,n
-clever,Showing intelligence; quick to understand or learn,adj
-clip,a metal holder used for keeping things together,n
-clue,a piece of information that helps explain a situation or provide a solution to a problem,n
-commentary,explanation or discussion of a written work/event,n
-commonly,"typically, normally; not unusually",adv
-comparable,being similar in some way,adj
-complication,action making something harder to do something,n
-conditional,depending (on),adj
-connector,a device that joins things together,n
-conscious,aware of what is going on around you; not knocked out,adj
-consciousness,being awake,n
-container,an object that can be used to hold things,n
-correction,a change to make something right,n
-correctly,in an accurate or correct manner,adv
-cure,a medicine or treatment that makes an ill person become healthy,n
-detection,the act of discovering something or solving a crime,n
-developmental,concerning the development or growth,adj
-directive,formal an order from an authority,n
-disturbance,a noise or something that stops you from continuing what you were doing,n
-economically,in an efficient manner; without using too much effort,adv
-economist,a person who studies economics,n
-enormously,"extremely, by a large amount",adv
-equality,the idea that all people have the same rights,n
-flip,to rotate or turn something over,n
-ghost,"spirit of a dead person, appearing to the living",n
-hedge,a fence made with small trees; avoid or try to avoid fulfilling,n
-identification,(card or paper) that proves who a person is,n
-incredible,very hard to believe,adj
-incredibly,"extremely, hard to believe",adv
-indicator,"an instrument that shows conditions in a machine, such as temperature, speed, pressure; in chemistry: a compound that changes color in the presence of an acid or a base",n
-individually,in a way involving only that person,adv
-industrialization,process of creating and developing many businesses,n
-industrialize,To make into something at an industrial level,verb
-inequality,situation where things are not equal/fair,n
-influential,having the power to cause change; having influence,adj
-instability,not stable; changeable,n
-intensity,"great energy, strength, or concentration",n
-intensive,needing great effort for a short period of time,adj
-interrupt,to cause something to stop happening for a time,verb
-interviewer,a person who asks questions to obtain information,n
-junior,someone lower in rank,adj
-kilometer,a metric unit of length equal to 1000 meters,n
-lab,laboratory; a place to do scientific experiments,n
-likelihood,the chance that something might happen,n
-lump,"a small hard part of something smooth, soft, or continuous",n
-mathematical,concerning numbers and equations,adj
-memorize,to study something so that you remember it,verb
-minus,(prep) being less than zero in number,prep
-monkey,"an animal related to humans, which lives in trees",n
-nasty,"very bad, unpleasant, or offensive",adj
-nest,the home of a bird or spider,n
-observer,someone whose job it is to watch or notice things,n
-occurrence,specific instance of something happening,n
-periodic,"happening regularly, but not frequently",adj
-physically,in a manner related to the body,adv
-plug,an electrical connector; to fill or close tightly so liquid or air cannot pass,verb
-politically,in connection with government matters,adv
-positively,definitely or certainly,adv
-presume,to think that something is probably true,verb
-processor,a machine or company that prepares something and makes it ready for use,n
-productive,doing a lot of work and achieving a lot,adj
-productivity,rate at which something is made or that people work,n
-progression,process of developing over time,n
-progressive,believing in modern ideas about social change,adj
-projection,an image on a screen,n
-pronounce,to make the sound of a word or letter with your voice,verb
-punch,to make a quick hit with a closed hand,verb
-punish,to make someone suffer for bad behavior,verb
-punishment,the act of punishing someone,n
-purely,for no other reason; only and completely,adv
-quotation,"words that a person has said or written in a play, book or movie",n
-ray,the lines of light coming from an object,n
-reactive,easily reacting to; responsive,adj
-reactor,device to control nuclear energy as a power source,n
-recipe,directions for making something,n
-reliability,a quality that makes someone or something dependable and deserving of trust,n
-replacement,"the act of putting something new in the place of something that is old, broken or missing",n
-resistant,not affected by something,adj
-ridiculous,"something that deserves laughter, is foolish or funny",adj
-rope,a thick string made by twisting many fibers together,n
-rub,to move something back and forth along a surface,verb
-selective,choosing through thoughtful comparison,adj
-separately,not with another person or thing,adv
-separation,a line that seperates; a point of parting; a gap,n
-similarity,the degree to which people or things are the same,n
-slavery,"(n,) the state of being a slave",n
-snake,an animal with with a long thin body and no arms or legs,n
-socially,being with other people,adv
-specification,a detailed description of the design and materials used to make something.,n
-spray,to make water or liquid fly in very small drops,verb
-stabilize,"to make something stable or consistent, with no major changes",verb
-standardize,to change something in order to make everything the same or make everything agree,verb
-sword,a long metal weapon with a sharp point and edge,n
-tech,short for 'technology' or 'technician',n
-tempt,"to make someone want something, even if it's bad",verb
-tense,stretched tight and stiff,adj
-traditionally,something done in a customary or traditional manner,adv
-tricky,difficult to do or deal with; something that needs skill,adj
-unstable,likely to move from its position or fall,adj
-variability,(statistics) degree scores depart from the mean,n
-variance,(statistics) amount of difference in distributions,n
-variant,thing that differs from something of the same kind,n
-wisdom,knowledge gained from experience in life,n
-absorb,to take in a liquid; soak up,verb
-absorption,"process of being absorbed (e.g. liquid, attention)",n
-accelerate,to increase the speed or rate of something,verb
-acceleration,increase in the speed or rate of something,n
-accumulate,To gather or acquire so that you have more of it,verb
-accumulation,The act of getting or becoming bigger or more over time,n
-accuracy,being exactly right; correctness,n
-accurately,exactly and without any mistakes; correctly,adv
-acid,sour substance that reacts with metals e.g. lemon,n
-acidic,containing acid,adj
-admission,the act of taking responsibility for an error or mistake,n
-adolescent,Teenager developing into an adult,n
-affirm,"to state, strengthen or support a belief you have",verb
-agriculture,the science of farming,n
-alien,person or creature from a planet other than Earth,n
-alliance,A group of people or organizations being joined or associated,n
-allocate,To distribute or set apart for a plan or purpose,verb
-allocation,The distribution of items set apart according to a plan or purpose,n
-approximate,about; not exact but close,adj
-approximation,"something that is similar, but not an exact copy",n
-archaeology,"the study of ancient societies by looking at old tools, bones and buildings",n
-architect,person who designs and advises on buildings,n
-aspect,"an element, feature, or quality of something",n
-assembly,a group of machine parts forming a tool or machine,n
-assert,To state or declare your ideas positively strongly,verb
-assignment,A duty that you are give to do (especially in the armed forces),n
-athletic,fit and strong; physically capable,adj
-atom,smallest bit that matter can be broken down into,n
-atomic,concerning atoms,adj
-audit,to examine carefully for accuracy,verb
-bacteria,the very small creatures that sometimes cause disease in humans and animals,n
-bacterial,concerning or caused by bacteria,adj
-bargain,something bought for a lower price than expected,n
-beam,a long piece of metal or wood; a line of light or energy,n
-behavioral,concerning the way people act,adj
-cattle,cows or bulls on a farm,n
-circulate,to go round continuously,verb
-circulation,the movement of blood through the body,n
-civilization,a highly developed society,n
-clarify,to state again so that a point is clearer,verb
-client,person paying for professional services,n
-clinic,local medical center; department of a hospital,n
-colonial,of a system where one country controls another,adj
-colony,country or settlement controlled by another country,n
-communicative,talkative; cooperative in giving information,adj
-communist,believer in communism,adj
-compensate,to give (money) to as a form of correcting a loss,verb
-competent,fully qualified or capable of doing,adj
-composer,a music writer,n
-conceive,"to think of, or create, something new (e.g. idea, child)",verb
-conception,an idea or notion; the first stage in pregnancy,n
-conceptual,characterized by concepts or the forming of concepts,adj
-conduction,"the transmission of heat, electricity or sound",n
-confine,to keep something or someone within a limited area so it cannot escape,verb
-consent,to agree or allow to do something,verb
-conservation,the management of land and water in ways that stop it from being damaged,n
-conserve,to keep safe,verb
-constitution,a law determining the fundamental political principles of a government,n
-constrain,To make someone do something by strong persuasion or force,verb
-consultation,a discussion between people to make a decision,n
-consumption,how much is spent on things; the process of eating and drinking,n
-continent,one of the very large areas of land on Earth that are usually divided into several countries,n
-contradict,"to disagree, to say the opposite is true",verb
-contradiction,the act of saying that something is not true or very different,n
-contradictory,"containing information, statements, or beliefs that do not agree with one another",adj
-controversy,strong public disagreement about something,n
-coordinate,to bring order and organization to something; in maths: any of the magnitudes that serve to define the position of a point or line by reference to a fixed figure or system of lines.,verb
-coordination,organizing people or things to make them work together effectively,n
-correlate,to show the relationship between two items or events.,verb
-correlation,a measure of the relationship between two variables,n
-correspondence,"Communication by letters, emails or text messages",n
-corruption,"actions that are illegal or morally questionable, often performed by a person in a position of power",n
-criteria,standard used to make judgments or decisions,n
-critically,in a way that is serious or dangerous; vitally,adv
-crystal,a solid formed by the solidification of a chemical,n
-curriculum,group of related courses in a school or college,n
-cyclic,a series of regular and repeated actions,adj
-damp,a little wet,adj
-deliberately,"in a careful, considered manner",adv
-demonstrator,person who shows how something works e.g. product,n
-dense,very thick and difficult to see/get through,adj
-depict,to describe someone or something,verb
-derivative,something that has developed or been obtained from something else,adj
-dictate,to speak while another person (or computer) writes the words down,verb
-dimensional,having parts that extent in a number of directions,adj
-disability,a condition that limits a person's ability to do something,n
-discharge,to release someone or something,verb
-discourse,"talk, conversation",n
-discrimination,the ability to recognize the difference between things; treating different groups of people unfairly,n
-distribution,#NAME?,n
-diverse,very different from each other,adj
-dominant,strongest,adj
-domination,authority; rule; control,n
-dose,an amount of medicine to be taken at any one time,n
-drain,"a pipe that removes water, or other liquids",n
-drift,to move slowly,n
-effectiveness,the degree of how well something works or is done,n
-elaborate,to be made or done with great care or with much detail,adj
-elevate,to make something higher,verb
-elevation,the height of a place,n
-elimination,the act or process of removing or being removed,n
-elite,important people of high status,n
-emergence,the process of emerging/coming out,n
-emission,a substance (e.g. gas) released into the air,n
-emit,"formal to release or send out (a gas, etc)",verb
-enforcement,the act or process of making sure that rules are followed,n
-essentially,"basically, primarily",adv
-estimation,judgment; opinion; guess at the value of,n
-evident,"plain, clear",adj
-evolutionary,concerning evolution,adj
-execute,"To kill someone, usually as an official punishment",verb
-execution,killing a person as a (usually legal) punishment,n
-explicit,definite; clearly stated; specific,adj
-explicitly,clearly; specifically,adv
-exploit,to use something or someone selfishly or unethically,verb
-fabric,cloth,n
-facilitate,To make an action or process easier,verb
-faculty,the teachers in a school or college,n
-fertility,the state of a female being able to produce young,n
-fiber,"a thin, threadlike part of an animal hair or plant tissue; an artificial thread; body cells that form muscles and nerves; a food substance",n
-flesh,the soft parts of the body,n
-flexibility,the quality of being able to be bent or stretched,n
-formally,in a formal manner; officially,adv
-formulation,"the development of a plan, system, or proposal",n
-founds,"to be based on, started or created by",verb
-fundamentally,in a basic and important way,adv
-genetically,"caused or controlled, or by genes",adv
-genetics,"the scientific study of genes, how a living things develop between generations",n pl.
-globalization,"international spread of something, e.g. company",n
-goods,general term for things that are bought or sold,n pl.
-grasp,to grip something firmly with the hands,verb
-gravity,the force that makes things fall down towards the ground,n
-gross,total amount; extreme or unreasonable,adj
-hip,the upper part of the leg,n
-ideology,ideas or beliefs which form theory and policy,n
-immune,"not affected by something, such as a disease",adj
-impact,a striking effect or result to hit with force,n
-independently,in a manner being free from the control of another,adv
-inevitably,happening with complete certainty,adv
-infect,to give someone a disease,verb
-infectious,"capable of causing infection, by the spreading of a bacteria or virus to others",adj
-initiate,to start,verb
-initiation,"a formal entry into an organization, position or office",n
-inject,to put medicine into someone with a syringe,verb
-injection,a way to put (inject) a drug or another substance into your body,n
-insert,to put something in something,verb
-instinct,"the natural way a person or animal thinks or behaves, knowledge that is not learned",n
-integration,act of bringing things together into a whole,n
-interact,"an action that is answered by a reaction, verbal or physical",verb
-interfere,to get involved in the business of others without invitation,verb
-intervene,"to get involved, to prevent trouble",verb
-invasion,an entry into a place for the purpose of taking control,n
-irrelevant,"not important, not related to the topic",adj
-justification,a reason or fact that explains why something happens or exists,n
-lecturer,a junior teacher in university,n
-legend,"old story generally believed, although not proven",n
-legitimate,being reasonable and sound,adj
-liable,legally responsible for something,adj
-logical,sensible; reasonable,adj
-magnetic,"having the properties of a magnet, being able to attract.",adj
-manipulate,to control something or someone,verb
-manipulation,the act of controlling something or someone,n
-manual,needing the use of physical strength or work; a book of information or instructions,adj
-marginal,very small; on the edge; not important,adj
-mechanic,a person who looks after machinery,n
-mechanical,using or having to do with machines,adj
-media,"means of communication (tv, newspapers, internet)",n
-merge,to cause two or more things to become combined into one,verb
-methodology,system of practices or techniques to show how to do tasks,n
-migrate,to move from place to another to live or work,verb
-migration,the process by which people or animals move to another place,n
-missile,"a weapon, usually thrown, shot or launched",n
-mobility,the ability to move,n
-modification,"a small change to a machine, system, or plan",n
-molecular,about or caused by molecules,adj
-molecule,two or more atoms chemically combined,n
-morality,beliefs or ideas about what is right and wrong,n
-mortality,the quality or state of being human and being able to die,n
-motive,a reason for doing something,n
-myth,a popular belief that is false or unsupported by fact,n
-naked,not wearing any clothes; without covering,adj
-neutral,not involved; without strong feeling; without electrical charge; not acidic or akaline,adj
-objection,reason for not supporting or agreeing with a plan,n
-obtain,To be given or to earn something through efforts,verb
-occupation,a career or regular job,n
-oral,by mouth,adj
-organ,large wind instrument similar to a piano,n
-orientation,"the ability to locate oneself in your environment with reference to time, place, and people",n
-peasant,"a person of low social status, usually who works on a farm",n
-philosopher,a person who studies ideas about things such as the meaning of life and truth,n
-philosophical,concerning philosophy,adj
-powder,a dry substance made up of very small pieces,n
-practitioner,"a person working in a profession, such as medicine",n
-precede,to go before,verb
-prediction,a statement of what will happen next.,n
-probe,a system or piece of equipment that is used to get information; in medicine: a long thin instrument used for looking inside your body,verb
-profound,showing a lot of deep knowledge or thought,adj
-prominent,being important or well known,adj
-psychiatric,concerning or used in psychiatry,adj
-psychologist,an expert who studies the mind and behavior,n
-psychology,the study of the mind and how it affects behaviour,n
-publish,"to prepare a book, journal, magazine and make it available",verb
-puzzle,a problem that requires thought and skill to be solved,n
-quantitative,the describing or measuring of quantity.,adj
-radiation,"energy that is radiated or transmitted in the form of rays, waves or particles.",n
-randomize,to arrange in a random order,verb
-randomly,with no pattern or clear purpose; by chance,adv
-rational,sensible; based on facts,adj
-rationality,being able to think clearly,n
-reconstruct,to rebuild something after it has been destroyed,verb
-regime,a system of management; a form of government,n
-reinforce,to strengthen,verb
-rejection,the act of refusing to consider or believe something,n
-render,"to cause someone or something to behave in a particular way, or to enter into a particular condition",verb
-reproduce,to make a copy of something,verb
-reproduction,the process that produces the next generation,n
-republic,a country governed by elected representatives,n
-resemble,to be similar to someone or something in looks or manner,verb
-revolutionary,a significant change in something,adj
-rhythm,a pattern of sound and beats in music,n
-ritual,performed as part of a formal ceremony,n
-scatter,to make things separate and go in different directions,verb
-sensible,having the ability to judge something reasonably,adj
-sensitivity,being sensitive; in physiology: the ability of an organism or part of an organism to react to stimuli; in electronics: the ability of a radio device to react to incoming signals,n
-shortly,quickly; soon,adv
-simultaneously,at the same time as,adv
-sin,a bad act; to do something bad,n
-sophisticate,to make more complex or refined,verb
-sponsorship,money given to a student to pay for education,n
-statistical,about statistics,adj
-statistically,with respect to statistics,adv
-statistics,a type of mathematics that provide specific information or prove something,n pl.
-strategic,concerned with strategy; well thought out,adj
-strictly,restricted to something,adv
-substitution,a person or thing acting or serving in place of another; to put (a person or thing) in the place of another.,n
-subtle,"difficult to notice, understand, or see",adj
-sufficiently,to a degree great enough to do something,adv
-suicide,the act of purposely killing yourself because you no longer wish to live,n
-superior,better; higher quality,n
-sustainable,capable of continuing for a long time at the same level; does not damage the environment,adj
-swell,"to become larger than normal, often because of injury",verb
-symbolic,representing a larger quality,adj
-technically,in an exact and particular manner,adv
-theorist,a person who forms new ideas,n
-thereby,by that means; because of that,adv
-ton,a unit of weight equal to 907 kilograms,n
-transaction,an exchange; in business this usually involves money,n
-transformation,a complete change in shape or form of something,n
-translation,changing from one form to another. e.g. changing from one language to another,n
-transmission,an electronic signal that has been sent by radio waves; a force that has been transferred from one machine to another,n
-transmit,to broadcast by using electrical signals to a radio or TV,verb
-treaty,an agreement between nations,n
-tremendous,"having great size, excellence, or power",adj
-tribe,"a racial group united by language, religion and customs",n
-ultimate,"happening or coming at the end of process, final",adj
-unity,being in full agreement; being joined together,n
-utility,"being useful; a public service such as gas, water, or electricity that is used by everyone",n
-vague,not clearly stated,adj
-valid,sound; just; well-founded,adj
-validity,how true something is; in statistics: the ability of a test to measure what it is intended to measure.,n
-virtue,a good quality,n
-weave,to make something by crossing threads over and under each other,verb
-activate,To make something start working,verb
-acute,strong; very serious or severe,adj
-adjacent,"being close or near to a border, wall, or point",adj
-adverse,negative or harmful,adj
-aesthetic,concerning the sense of artistic beauty,adj
-aluminum,very light silvery-white metal used to make cans,n
-ancestor,a person from your family that lived in the past,n
-anthropology,the study of human origins and the development of society,n
-array,a large group of people or things; a regular order or arrangement; in maths: a series of figures.,n
-arrow,a symbol to give direction; a long piece of wood shot from a bow,n
-articulate,to express something clearly using language,verb
-artificial,not made by people; not created by nature,adj
-auction,To sell to a person offering the highest price,verb
-audio,concerning sound,adj
-autonomy,the power to make independent decisions,n
-barrel,a round container with curved sides and flat ends,n
-basin,a sink; a place in a bathroom to wash your face,n
-biologist,a scientist who studies living things,n
-biology,the study of living things,n
-bizarre,odd or strange,adj
-bonus,extra money for achieving/exceeding target,n pl.
-bubble,a small ball of air inside of a liquid,n
-bulk,big size; largeness; heaviness,n
-bullet,metal object fired from a gun,n
-bundle,a group of things that are tied together,n
-calcium,"a substance important for human and animal health, particularly for making bones and teeth",n
-campus,"the site of an institution, such as a university campus",n pl.
-capitalism,economic system based on private ownership of money,n
-capitalist,one believing in private ownership of money,n
-censor,"to remove parts of a book, film or letter for moral, religious, or political reasons",n
-chemistry,the study of the structure of substances,n
-chronic,over a long time; serious,adj
-chunk,a large bit of something; thick lump,n
-cinema,a place for showing movies,n
-classification,putting similar items into groups or sets,n
-classify,To arrange things into groups of similar items,verb
-clay,"heavy, sticky earth used to make pottery",n
-clone,to make an exact copy of a living thing,verb
-closure,the act of closing something,n
-cognitive,the process of knowing and remembering,adj
-coherent,(of language/ideas) logical and well-organized,adj
-commodity,"Something useful or valuable, usually for sale",n
-compact,packed together; closely united; small,adj
-comparative,expressing a difference in degree,adj
-competence,ability to do something in a fully satisfactory way,n
-complement,something needed to complete or make perfect,n
-comply,to act in agreement with another's wishes; to obey a rule,verb
-comprehension,ability to understand,n
-configuration,a shape or outline; a method of arrangement,n
-consensus,a decision that is shared by most of the members of a group,n pl.
-contrary,different; opposite,adj
-cord,"a long, strong material, thicker than string but not as thick as rope; an electrical wire",n
-credibility,quality of being believable or deserving of trust,n
-critique,a review of the quality of a work,n
-crude,"basic or made without skill, such as a crude drawing",adj
-deadline,a date or time before which something must be done,n
-decay,to be slowly broken down by natural processes,verb
-defect,a problem; a fault,n
-deficiency,without something that is necessary,n
-dependence,relying on someone for (financial) support,n
-destination,the place one is traveling to,n
-diagnose,"to determine the cause of something, e.g. an illness",verb
-diagnosis,a judgment by a doctor about a person’s illness,n pl.
-diagram,a drawing intended to explain how something works,n
-diameter,the distance across the center of an object,n
-diary,blank book in which you write what you did each day,n
-dictionary,a book with the spellings and meanings of many words,n
-differentiate,to see or show a difference between things,verb
-differentiation,a discrimination between things as different and distinct,n
-dilemma,a position in which a person must make difficult choices,n
-dioxide,an oxide containing two oxides per molecule,n
-disadvantage,a negative point; a downside; difficulty,n
-displacement,the act of taking the place of something or someone else,n
-dissolve,to melt into a liquid so that a substance mixes with the liquid itself,verb
-domain,"a field of action, thought or influence; an area of knowledge",n
-donor,a person or group that gives gifts or money to help support an organization or cause,n
-duration,the length of time that something lasts,n
-dynamic,always active or changing; in physics: a force related to motion,adj
-ecological,"concerning the environment, plants, or animals",adj
-electron,a negatively charged particle,n
-elementary,"basic, simple, or essential",adj
-emperor,man who rules an empire,n
-empirical,based on observation or experiment,adj
-entity,something that is real,n
-essence,the most important part or quality of something,n
-ethical,morally right or wrong,adj
-ethics,"the moral principles, standards, and rules for deciding what is right and wrong",n pl.
-exit,a door that you go through to leave a place,n
-expertise,the special knowledge that an expert has,n
-fever,a high body temperature,n
-fluid,a material that can easily flow. e.g. water,adj
-forum,meeting where people can openly discuss a subject,n
-fossil,a plant or animal that has become rock after many thousands of years,n
-fraction,a part of a whole,n
-fracture,the result of breaking a hard material; a crack,n
-fringe,the edge of something; such as the decorative edge on a piece of clothing,n
-fusion,"when different styles, ideas or designs combine to form something new; in physics: when atoms combine to produce nuclear energy",n
-gauge,a tool used to measure things,n
-goat,small animal with beard and horns,n
-graph,image expressing numerical data in lines or shapes,n
-grid,a metal structure with bars that is used to cover a hole,n
-gut,"the parts inside: a human body, animal body or a machine",n
-habitat,"the natural place, or type of place, where a plant or animal lives",n
-harvest,the time of year to bring crops in from the fields,n
-hierarchy,a system for organizing people or things according to their importance,n
-horizon,the line where the earth or sea meets the sky,n
-horizontal,flat or level,adj
-hormone,a chemical produced by the body to control some function,n
-hydrogen,"the lightest of all chemical elements, has no smell or color",n
-illusion,"an image that seems real, but is not real",n
-implicit,not stated directly,adj
-impulse,a sudden desire to do something that is not planned,n
-incidence,the rate that something happens,n
-incline,a slope or surface that rises uphill,n
-inclusion,act of including; person/thing that is included,n
-indifference,a lack of enthusiasm or interest in things; seeming not to care,n
-indigenous,"living or growing naturally in an area, not brought from somewhere else",adj
-indirect,having a path that is not straight or direct,adj
-induce,"to cause, to persuade",verb
-inference,an opinion that you form based on information you already have,n
-infinite,without an end,adj
-informal,not official; not done by the rules,adj
-inhibit,to make it difficult for a process to start or continue in a normal way,verb
-inhibition,the process whereby nerves can retard or prevent the functioning of an organ; the act of blocking or holding back,n
-insect,"a small animal with 6 legs, such as a bee or ant",n
-integral,part of something,adj
-interface,a shared boundary between two persons or systems through which information is communicated.,n
-interval,"the distance between two points, numbers or times",n
-invade,to enter a place with an aim of taking control of it,verb
-jazz,a type of American music known for its energetic beat and parts that musicians make up as they go along,n
-leaf,the green part of a tree or plant,n
-leisure,time when you have no work to do and can relax,n
-lever,a handle that one pulls to operate a machine,n
-likewise,"in the same way, in addition to",adj
-limb,"leg, arm or wing",n
-linear,made of lines,adj
-linguistic,belonging to language,adj
-linguistics,the study of human languages,n pl.
-liver,a large organ in the body that helps to absorb food and clean the blood,n
-loop,a round shape,n
-lung,an organ used to breathe,n
-magnitude,size or importance,n
-manuscript,"a document, a piece of writing",n
-marble,a kind of stone; metamorphosed limestone,n
-matrix,"a substance, situation, or environment in which something has its origin - in math: an arrangement of numbers in rows and columns",n
-maximize,"to increase, or become as large or great as possible",verb
-mediate,"to bring about an agreement between persons or groups, act as a helper",verb
-metaphor,a figure of speech based on analogy,n
-mineral,a substance naturally formed in the ground,n
-minimal,the smallest possible,adj
-minimize,to make something as small as possible,verb
-momentum,speed or force that is gained when something moves,n
-monetary,"concerning money, often referring to a country's economic system",adj
-monopoly,complete control of the market for a service or product,adv
-multiply,to increase greatly in number,verb
-necessity,something that you must have or do,n
-noble,having personal qualities that people admire,adj
-nonetheless,"in spite of that, nevertheless",adj
-nonlinear,not in a line,adj
-norm,an established standard of performance or behavior,n
-obscure,"not famous, unknown by most people; not easy to understand",adj
-optical,concerning vision or helping people see,adj
-organism,"living thing, often one that is small",n
-outlet,"a way for something to be released; a pipe, hole or wire through which gas, liquid or electricity flows",n
-overhead,located above your head or in the sky,adj
-overlap,To lie over or cover a part of something else,verb
-oxygen,"a gas in the air that has no smell or taste, and that all animals need to breathe",n
-paradox,"a saying that seems contrary to popular belief, but which may be true",n
-parameter,"a characteristic or constant factor, a limit.",n
-particle,a very small piece of something,n
-peripheral,not connected to the main or important part of something,adj
-physician,a medical doctor,n
-physics,"the study of heat, light, and other forms of energy and how they affect objects",n pl.
-plural,refers to more than one person or thing,adj
-polar,concerning the areas near the North or South poles,adj
-portfolio,a list of the financial assets held by an individual or other financial institution,n
-portray,"to represent something or someone in a particular way, often for artistic purposes",verb
-portrayal,"the way that something or someone is represented in a book, film, picture or other context",adj
-poster,"a large, printed notice or picture",n
-predator,an animal that feeds itself by killing and eating other animals,n
-predominantly,"in a way that is larger, greater or has more power than others",adv
-prejudice,"an unreasonable hatred for a group of people, usually a race or a religion",n
-preliminary,before,adj
-prevalence,"widespread, common, general",n
-prey,an animal that is killed and eaten by another animal,n
-primitive,being of an early time period in the past,adj
-proposition,an idea; a suggestion,n
-protocol,a set of rules; computers use protocol so they can exchange information,n
-pulse,beat of the heart,n
-questionnaire,form used to get information from many people,n
-rack,"a frame, stand or hook on which things are set or hung",n
-realm,the area ruled by a king or queen,n
-regression,going back; in statistics: a type of correlational procedure that focuses on predicting the values of an outcome based on its correlation with another variable.,n
-rehabilitation,"a scheme to help someone who has been ill or in prison to return to a healthy, independent, and useful life",n
-residual,"concerning the last little bit, after the rest has gone or ended",adj
-residue,left over after part or most is taken away,n
-retrieve,to find and get something from somewhere,verb
-rhetoric,the study of public speaking or writing techniques,n
-robot,a mechanical creature that acts like a human,n
-rotate,to move or turn around a central point,verb
-rotation,movement in a circle around a central point,n
-scenario,an outline; an imagined sequence of events in a plan or project,n
-scholarship,money given to a student to pay for education,n
-seminar,a small class at a college or university,n
-sensation,"a feeling that is experienced by the body, usually through the sense of touch",n
-shallow,not deep; a small distance between the lowest and highest point,adj
-simulate,"to look, feel, or behave like something; to copy",verb
-simulation,a copy; a method that is used to study and analyze the characteristics of the real world,n
-sketch,a drawing made quickly that lacks detail,n
-skip,to not do; to jump,verb
-slot,"a long narrow opening, into which you put or fit something",n
-sodium,"a soft, white chemical element",n
-span,the amount of time something lasts,verb
-spatial,about space,adj
-specimen,"an example of something, especially of a plant or an animal; a small amount of blood or urine",n pl.
-spectrum,the wavelengths of colors from red to violet,n
-sphere,a round 3D object. e.g. a ball,n
-spontaneous,"something that happens on its own, seemingly without cause",adj
-stack,To put one thing on top of another e.g. books,verb
-stadium,very large building with a sports field and rows of seats all around that is used for various events,n
-stance,a position or opinion that is stated to the public,n
-stereotype,"an idea or belief about what someone or something is like, often unfair or untrue",n
-stimulus,something that makes a change.,n pl.
-straightforward,easy to do or understand; not complicated,adj
-strand,something that is plaited or twisted as a rope-like length,n
-stripe,"a long, thin part of something which is a different color from the parts beside it",n
-subjective,"the use of personal feelings and opinions, rather than facts",adj
-surgeon,a doctor who performs surgery,n
-surplus,extra; more than is needed,adj
-syndrome,a group of signs and symptoms that accompany a disease,n
-synthesis,building something complex from simple parts,n pl.
-terminal,the end of something,n
-thesis,a long essay; a position taken in an argument supported by a set of reasons,n
-thread,"a long, very thin, soft material used to join or make cloth",n
-threshold,a level or point at which something would start or stop happening.,n
-thumb,"the short, thick finger on the side of your hand",n
-toxic,poisonous; harmful,adj
-trait,a characteristic,n
-transcription,something written,n
-transplant,a medical operation in which a new organ is placed inside a patient's body,n
-trauma,a very severe or upsetting experience,n
-triangle,a closed shape with three straight sides,n
-tropical,hot and humid; near to the equator,adj
-tumor,a mass of abnormal cells that develops when cancerous cells divide and grow uncontrollably,n
-tutor,a teacher,n
-undermine,to weaken or destroy something secretly and usually slowly,verb
-unify,to join or bring together,verb
-upward,moving toward a higher point or position,adv
-utilize,to use something practically for a particular purpose,verb
-utterance,something that is said,n
-vein,one of the little tubes that return blood from the body to the heart,n
-verbal,"using speech, rather than being written",adj
-vertical,a line going up/down; not horizontal,adj
-viable,able to be done; possible,adj
-vitamin,a substance that is healthy for your body and can be found in foods or taken as a medicine,n
-abdominal,Concerned with the abdomen or stomach,adj
-aggregate,a sum total amount of something,n
-algorithm,a step-by-step problem-solving feature,n
-altitude,the height of something above sea level,n
-analogy,comparison of things based on their similarity,n
-antibiotic,concerning medicine that is used to fight certain diseases,adj
-antibody,a defense provided by the body against disease,n
-appendix,additional information at the end of a document,n
-applause,the sound made by clapping a performance or speech,n
-arbitrary,unsupported,adj
-axis,"a line about which a rotating body, such as the earth, turns.",n
-bracket,a 90 degree piece of metal used to support a wall shelf,n
-coefficient,a number multiplied by a variable in an algebraic expression.,adj
-composite,made of more than one different part,adj
-cone,a 3D shape with a circular base; a part of the eye,n
-converge,to come together,verb
-convergence,coming together,n
-cue,a word or action during a stage play to tell an actor to speak,n
-cylinder,"a shape or object with flat, circular ends and long, straight sides",n
-degrade,to treat someone without respect; to reduce in amount or strength,verb
-delta,the place a river divides before entering a larger body of water,n
-deviation,"not standard or normal; in statistics: the difference between one of a set of values and some fixed value, usually the mean of the set.",n
-diagnostic,to do with finding out the cause of a problem,adj
-differential,difference; diversity,adj
-diffusion,the movement of light in many directions,n
-dilute,"to mix; to reduce in strength, concentration, quality or purity",verb
-dominance,"the state of being more powerful, successful, or important than others",n
-dye,a liquid that colors hair or cloth,n
-ecology,"the study of plants, animals, people, and their environments",n
-elastic,able to return to original shape or size after stretching,adj
-elasticity,the ability to stretch easily and then quickly return to the original shape,n
-embed,"to place or set inside rock, etc",verb
-enzyme,a protein made by cells,n
-epidemic,a disease affecting many people,adj
-equilibrium,a state of balance,n
-erase,to remove written information or information on a computer memory,verb
-fatigue,being very tired,n
-fungus,"a group of plants that grow on dead materials and have no flowers, e.g. mushrooms",n pl.
-gram,a metric unit of weight,n
-hawk,a large bird that gets its food by killing smaller birds and animals,n
-incumbent,a person who holds a particular office or position,n
-inferior,not as good as something else,adj
-intermediate,between,adj
-ion,a charged atom,n
-kidney,an organ in the body that cleans the blood,n
-lateral,on the side; moving sideways,adj
-mall,a large shopping center with many individual stores,n
-maternal,having to do with being a mother,adj
-membrane,a thin covering of tissue.,n
-messenger,someone who delivers a messages,n
-motif,"a distinctive form, shape or figure in a design",n
-multinational,involving many countries,adj
-mutation,a change; in genetics: any event that changes genetic structure,n
-niche,"a small area; a specialised business, job or activity",n
-nitrogen,a colorless chemical element without a smell that forms most of the earth's atmosphere,n
-node,an intersection or junction point in a network; a part on a plant where a new leaf grows,n
-nominal,in name or thought but not reality,adj
-nucleus,control center of a cell,n pl.
-numerical,includes numbers,adj
-nutrient,"a chemical, food, that animals and plants need to live, develop, and be healthy",n
-offspring,the child of a person or the young of a plant or animal,n
-onset,the beginning,n
-optimal,best,adj
-orient,to focus your attention or efforts on something,verb
-overview,a description of the main features of something,n
-par,the usual amount,n
-paradigm,a set of ideas that are used for understanding or explaining something,n
-parcel,"a package or box wrapped in paper, a thing bigger than a letter that is sent in the mail",n
-pest,an unwanted insect or small animal that eats plants or food supplies,n
-pesticide,a chemical substance used to kill pests,n
-plantation,"a large area of plants, usually in a hot climate",n
-plausible,being reasonable and possibly true,adj
-pragmatic,"dealing with problems in a reasonable, practical manner",adj
-precipitate,to cause to happen,verb
-precipitation,"rain, snow or hail",n
-qualitative,"concerning how good something is, rather than quantity",adj
-quantum,the smallest unit or amount of energy,n
-radar,a device that sends out radio waves for finding out the position of another object,n
-replicate,"to repeat something, such as an experiment, study or process",verb
-replication,the act of making copies,n
-reservoir,"a lake, usually artificial, where water is collected and stored for the use of a community or industry",n
-scripture,the holy books of a particular religion,n
-sediment,the material that settles to the bottom of a liquid,n
-semantic,the different meanings of words,adj
-shuttle,a vehicle that carries passengers or items between two places,n
-singular,one,adj
-slab,"a thick, flat slice of something",n
-slash,to cut violently,n
-sniff,to smell by short intakes of air.,verb
-socialize,to teach people to behave in a way which is acceptable in their culture; to spend time with people,verb
-static,being unchangeable or unmovable,adj
-surgical,concerning surgery,adj
-susceptible,at risk of developing a certain illness or problem,adj
-swap,to trade or exchange,verb
-synthetic,not natural; made from artificial materials,adj
-temporal,concerning time,adj
-thermal,with reference to some source of heat,adj
-tolerance,"a willingness to let people do, say or believe what they wish, without judging or challenging them",n
-tract,a large stretch of land,n
-trivial,unimportant,adj
-turbulent,moving violently and unevenly,adj
-undergraduate,a college student who is working toward his or her first degree,n
-unintelligible,that cannot be understood,adj
-urine,yellow liquid waste from the body,n
-usage,the way something is used,n
-valve,"a device along a pipe that can either open and allow something to flow, or close and block it",n
-vegetation,plants,n
-velocity,speed in a given direction,n
-vocabulary,the words that a person knows,n
-wheat,a kind of grain that is used to make flour for bread,n
-whereby,by which; by that thing,adv
-antiquity,an ancient period; something made a long time ago,n
-binary,"having two parts; using only 2 numbers, 1 and 0",adj
-chess,"a game of strategy, for two players",n
-chromosome,cell structures that carry the genetic material that is copied and passed to the next generation.,n
-contour,the shape of the outside edge of something,n
-coronary,concerning the heart,adj
-corpus,a body; in linguistics: a body of words,n pl.
-deceive,to make someone believe something that is not true,verb
-deflection,the action of making something move in a different direction,n
-denote,be a name or symbol for,verb
-dialect,a way of speaking a language that is used only in a particular area or by a particular group,n
-discrete,separate; composed of distinct parts,adj
-encode,to change a message or information into code,verb
-epidemiology,the science of how diseases spread,n
-facet,a part of something,n
-fin,"the flat, thin body parts of a fish that sticks out and helps guide it through water",n
-finite,having limits; lasting for a limited time,adj
-flux,a state of flow and change,n
-friction,the act of sliding two objects against each other,n
-hepatitis,"a disease of the liver that causes inflammation, yellow skin and a fever",n
-induction,"bringing about, or causing",n
-invert,to turn something upside down,verb
-irrigation,supplying land with water using pipes,n
-liter,metric unit for measuring liquid or gas,n
-locus,a place or location; in genetics: the location of a gene on a chromosome,n
-mentor,an experienced or wise person who teaches or helps another person,n
-mercury,"a heavy, silver-white metal that is used in thermometers to measure temperature; a planet",n
-metabolism,the chemical processes of the body in which food is converted to energy,n
-mole,a small animal with dark fur that lives under the ground; a unit for measuring molecules,n
-neuron,a nerve cell; the basic building block of the nervous system.,n
-notation,a set of written signs or shapes that are used in music or mathematics,n
-novice,"a person with little or no experience in a particular activity, skill, or subject",n
-onwards,forward,adv
-oscillation,"movement, from side to side at a steady speed; a frequent change in size, strength, or direction between two limits",n
-partition,"a wall, screen, or piece of glass used to separate one area from another",n
-physiological,concerning how the body functions,adj
-quiz,a game in which players answer questions on a specific topic,n
-radius,a given area or a range around a certain point; a line from the center of a circle to its edge,n
-receptor,a device that receives information; in physiology: a nerve ending that changes stimuli into impulses,n
-repertoire,a collection of skills or accomplishments.,n
-respiratory,to do with breathing,adj
-scroll,a long rolled piece of paper with writing on it; to move up and down a computer screen,n
-secrete,to produce a liquid,verb
-sensory,"referring to the five senses (hearing, sight, smell, taste and touch)",adj
-solvent,something that dissolves or can melt another substance,n
-sperm,male sex cell,n
-syllable,a unit of speech,n
-terminology,specific words and expressions used in a particular field,n
-transcribe,to write something spoken,verb
-vector,a quantity that has both size and direction.,n
-yeast,a single-celled fungi used to make bread and beer,n
-amino,a substance that combines to form the structure of proteins,n
-artifact,"object made by humans, e.g. ancient tool",n
-bilingual,being able to speak two languages well,adj
-chemotherapy,"the treatment of diseases, such as cancer, using chemicals",n
-confound,"to confuse and greatly surprise someone, so that they are unable to explain a situation",verb
-dissection,the act or process of cutting something,n
-dissertation,an in-depth paper submitted for a doctorate degree,n
-entrant,a person who enters a contest,n
-fetal,"concerning a fetus, an unborn baby",adj
-gradient,a measure of how steep something is,n
-grammatical,concerning grammatical rules,adj
-infinity,with out end; limitless,n
-innate,present in a person or animal from the time of birth,adj
-longitudinal,going from the top to the bottom of something,adj
-marrow,"a soft, fatty tissue inside bones",n
-millimeter,1/1000th of a meter,n
-morphological,the study of form and structure,adj
-morphology,"the study of the forms and structures of plants, animals and words",n
-neural,about the nerves or nervous system,adj
-null,having no impact,adj
-optimum,the best or most desirable,adj
-phenomenal,"unusual, remarkable",adj
-phosphate,a salt or compound used to help grown plants,n
-potassium,"a common, soft, silvery white metal that is usually used for farming or industrial purposes",n
-primer,a book that covers the basics of a subject; a kind of paint,n
-proton,a very small part of an atom that has a positive electrical charge,n
-soluble,"can be mixed with a liquid, e.g. salt is soluble in water",adj
-substrate,a substance which a catalyst or enzyme has an effect on,verb
-subtract,"to take away, e.g. 20 - 5 = 15",verb
-syllabus,the teaching schedule for a course in a school or university,n
-trajectory,the path followed by an object moving through space,n
-transparency,the amount you can see through something,n
-vowel,"a speech sound; a, e , i, o, u and sometimes y",n
-watershed,"a period of time during which important, significant changes take place",verb
-algebra,mathematics using letters and symbols in place of some numbers,n
-amplitude,"the breadth, width or largeness of something",n
-biodiversity,"the variation in an environment, the number of different types of life found there",n
-chloride,a chemical compound that is a mixture of chlorine and something else,n
-circa,an approximate time period,n
-consonant,a speech sound; any letter in the alphabet that is not a vowel.,adj
-cortex,the outer part of an organ or structure,n
-inversion,a change in position of things so they become the opposite,n
-lexical,about words,adj
-multi,a prefix meaning 'more than one',prefix
-phonological,concerning sound,adj
-postgraduate,graduate studying for a further degree,n
-sneeze,to loudly blow air out of your nose or mouth in a sudden uncontrolled way,verb
-syntactic,grammatical,adj
-syntax,"the study of a system, such as the system of words in a sentence",n
-theorem,a statement that can be proved,n
-aerosol,a container that sprays liquid under pressure,n
-axiom,a statement that is accepted as true,n
-calculus,a type of mathematics used for calculating such things as the slopes of curves,n
-capillary,very small blood vessels,n
-comma,mark showing a pause or list in a sentence,n
-congruent,having the same shape and size,adj
-denominator,the bottom number in a fraction,n
-equivalence,when something is equal to something else,n
-exponential,a constant e raised to a power equal to a given expression: e.g. e3x is the exponential of 3x.,adj
-helix,a 3D spiral shape,n
-herbicide,a poison that kills weeds,n
-semi,a prefix meaning 'half',prefix
-splice,act of connecting two pieces of rope or wire into one,n
-connotation,an association; an implication,n
-descriptor,a label; something that describes,n
-oxidize,to convert (an element) into an oxide; combine with oxygen - to rust,verb
-parenthesis,"one of two symbols ( and ), used in writing",n
-semester,half a year in school or college,n
-trans,"a prefix meaning 'across', 'through' or 'changing thoroughly'",prefix
-volition,the act of making a conscious choice,n
-factorial,concerning factors or factorials,adj
-solute,"a substance that has dissolved in a solvent and become part of the liquid, so that they form a solution",adj
-mid,at (or near) the middle point,adj
-airplane,a machine that flies through the air,n
-artwork,photographs or pictures in a printed publication,n
-breakdown,when normal activity or behaviour stops,n
-classroom,room in a school where lessons take place,n
-feedback,a response to a message; information about a person's behavior,n
-footnote,extra information at the bottom of a page,n
-halfway,a middle point between two extremes,adv
-handout,"a piece of paper with information, often given out before a presentation",n
-homework,work that a student is given to do at home,n
-layout,"plan or design of something, e.g. of book page",n
-lifestyle,the type of life that you have,n
-lifetime,the time between birth and death,n
-pathway,a path or way that you can walk,n
-rainfall,water falling from the sky,n
-textbook,a book that is used to study,n
-uplift,to make someone feel happier or more hopeful,n
-wavelength,the size of a wave; a shared understanding,n
-widespread,happening or existing in many places; affecting many people,adj
-workshop,a brief intensive course for a small group; emphasizes problem solving,n
-anti,a prefix meaning 'against' or 'opposed',prefix
-ex,"a prefix meaning ""out of,"" ""from,"" or ""not""",prefix
-micro,"a prefix meaning 'very small', such as microchip",n
-neo,a prefix meaning 'recent' or 'new',n
-non,a prefix meaning 'not',prefix
-pi,the ratio of the circumference to the diameter of a circle; approximately equal to 3.14,n
-pole,"a long, narrow piece of metal or wood, that is used to hold or support something",n
-pre,a prefix meaning 'before',prefix
-sub,a prefix meaning 'under' or 'instead of',prefix
-super,of the highest quality; great; marvelous,adj
-headquarter,the main office of a company or organisation,n
-identical,the same in every way,adj
+Anecdote,"A short, amusing, or interesting story about a real incident or person.",
+Antidote,A medicine or remedy taken to counteract a particular poison or disease.,
+Canvas,"A strong, coarse unbleached cloth used for oil paintings, tents, or sails.",
+Canvass,"To go through an area to solicit votes, orders, or opinions.",
+Faint,"Lacking brightness, vividness, or strength; or to lose consciousness temporarily.",
+Feint,"A deceptive or pretended blow, thrust, or movement, especially in boxing or fencing.",
+Imply,To strongly suggest the truth or existence of something not expressly stated.,
+Infer,To deduce or conclude information from evidence and reasoning rather than from explicit statements.,
+Complement,A thing that completes or brings to perfection; to add to in a way that enhances.,
+Compliment,A polite expression of praise or admiration.,
+Optimistic,Hopeful and confident about the future or the success of something.,
+Pessimistic,Tending to see the worst aspect of things or believe that the worst will happen.,
+Callus,"A thickened and hardened part of the skin or soft tissue, especially in an area that has been subjected to friction.",
+Callous,Showing or having an insensitive and cruel disregard for others.,
+Fictional,Relating to or occurring in fiction; invented for the purpose of a story.,
+Fictitious,Not real or true; being imaginary or having been fabricated.,
+Fictive,Created by the imagination; or relating to the creation of fiction.,
+Irony,"The expression of one's meaning by using language that normally signifies the opposite, typically for humorous effect.",
+Satire,"The use of humor, irony, or exaggeration to expose and criticize people's stupidity or vices.",
+Sarcasm,The use of irony to mock or convey contempt.,
+Disillusion,To cause someone to realize that a belief or an ideal is false.,
+Dissolution,"The closing down or dismissal of an assembly, partnership, or official body.",
+Gorilla,"A powerfully built great ape with a large head and short neck, native to the forests of central Africa.",
+Guerrilla,"A member of a small independent group taking part in irregular fighting, typically against larger regular forces.",
+Hero,"A person who is admired or idealized for courage, outstanding achievements, or noble qualities.",
+Protagonist,"The leading character or one of the major characters in a drama, movie, novel, or other fictional text.",
+Marital,Relating to marriage or the relationship between a married couple.,
+Martial,Relating to fighting or war; appropriate to war or a warrior.,
+Paradox,A seemingly absurd or self-contradictory statement that when investigated or explained may prove to be true.,
+Oxymoron,"A figure of speech in which apparently contradictory terms appear in conjunction (e.g., faithfully unfaithful).",
+Parameter,A numerical or other measurable factor forming one of a set that defines a system or sets the conditions of its operation.,
+Perimeter,The continuous line forming the boundary of a closed geometric figure.,
+Parody,"An imitation of the style of a particular writer, artist, or genre with deliberate exaggeration for comic effect.",
+Parity,"The state or condition of being equal, especially regarding status or pay.",
+Pitiable,Deserving or arousing pity.,
+Pitiful,Deserving or arousing pity; or very small or poor; inadequate.,
+Piteous,Deserving or arousing pity (often used specifically for a sound or expression).,
+Pitiless,Showing no pity; cruel.,
+Prescribe,To advise or authorize the use of (a medicine or treatment) in writing.,
+Proscribe,"To forbid, especially by law.",
+Pretentious,Attempting to impress by affecting greater importance or talent than is actually possessed.,
+Portentous,Done in a pompous or overly solemn manner so as to impress; or signally significant or indicative of a future event.,
+Reluctant,Unwilling and hesitant; disinclined.,
+Reticent,Not revealing one's thoughts or feelings readily.,
+Adverse,Preventing success or development; harmful; unfavorable.,
+Averse,Having a strong dislike of or opposition to something.,
+Amoral,Lacking a moral sense; unconcerned with the rightness or wrongness of something.,
+Immoral,Not conforming to accepted standards of morality.,
+Amuse,To cause someone to find something funny; to entertain.,
+Bemused,"Puzzled, confused, or bewildered.",
+Ascent,A climb or walk to the summit of a mountain or hill.,
+Assent,The expression of approval or agreement.,
+Cannon,"A large, heavy piece of artillery, typically mounted on wheels.",
+Canon,"A general law, rule, principle, or criterion by which something is judged.",
+Climactic,Consisting of or causing a climax (the most exciting or important point).,
+Climatic,Relating to climate.,
+Disinterested,Not influenced by considerations of personal advantage; unbiased.,
+Uninterested,Not interested in or concerned about something or someone.,
+Elusive,"Difficult to find, catch, or achieve.",
+Illusive,Deceptive; illusory.,
+Endemic,Regularly found among particular people or in a certain area.,
+Epidemic,A widespread occurrence of an infectious disease in a community at a particular time.,
+Aural,Relating to the ear or the sense of hearing.,
+Oral,Relating to the mouth; or spoken rather than written.,
+Verbal,Relating to or in the form of words.,
+Entitle,To give someone a legal right or a just claim to receive or do something.,
+Title,"The name of a book, composition, or other artistic work.",
+Entomology,The branch of zoology concerned with the study of insects.,
+Etymology,The study of the origin of words and the way in which their meanings have changed throughout history.,
+Exercise,"Activity requiring physical effort, carried out to sustain or improve health and fitness.",
+Exorcise,To drive out or attempt to drive out (an evil spirit) from a person or place.,
+Ferment,To undergo a chemical change that results in the production of alcohol or acids.,
+Foment,To instigate or stir up (an undesirable or violent sentiment or course of action).,
+Flaunt,"To display something ostentatiously, especially in order to provoke envy or admiration.",
+Flout,"To openly disregard (a rule, law, or convention).",
+Formidable,"Inspiring fear or respect through being impressively large, powerful, intense, or capable.",
+Formative,"Serving to form something, especially having a profound and lasting influence on a person's development.",
+Introvert,"A shy, reticent person.",
+Extrovert,"An outgoing, overtly expressive person.",
+Objective,Not influenced by personal feelings or opinions in considering and representing facts.,
+Subjective,"Based on or influenced by personal feelings, tastes, or opinions.",
+Premier,"First in importance, order, or quality; leading.",
+Premiere,The first performance of a musical or theatrical work or the first showing of a movie.,
+Sac,"A hollow, flexible structure resembling a bag or pouch.",
+Sack,A large bag made of a strong material; or to dismiss someone from employment.,
+Slight,Small in degree; inconsiderable.,
+Sleight,"The use of dexterity or cunning, especially so as to deceive (e.g., sleight of hand).",
+Afflict,To cause pain or suffering to; to affect or trouble.,
+Inflict,To cause (something unpleasant or painful) to be suffered by someone or something.,
+Aggravate,"To make (a problem, injury, or offense) worse or more serious.",
+Irritate,"To make someone annoyed, impatient, or slightly angry; or to cause inflammation.",
+Breach,"An act of breaking or failing to observe a law, agreement, or code of conduct.",
+Breech,The part of a cannon or other gun behind the barrel.,
+Breeches,"Short trousers fastened just below the knee, now used mostly for riding a horse.",
+Economic,Relating to economics or the economy.,
+Economical,"Giving good value or service in relation to the amount of money, time, or effort spent.",
+Emigrate,To leave one's own country in order to settle permanently in another.,
+Immigrate,To come to live permanently in a foreign country.,
+Migrate,"To move from one area or country to settle in another, especially seasonal movement by animals.",
+Envelop,"To wrap up, cover, or surround completely.",
+Envelope,"A flat paper container with a sealable flap, used to enclose a letter or document.",
+Flounder,To struggle or stagger helplessly or clumsily in water or mud; or to struggle mentally.,
+Founder,"To fail or break down, typically as a result of a particular problem or setback; or to sink (of a ship).",
+Hoard,"A stock or store of money or valued objects, typically one that is secret or carefully guarded.",
+Horde,A large group of people.,
+Moral,Concerned with the principles of right and wrong behavior and the goodness or badness of human character.,
+Morale,"The confidence, enthusiasm, and discipline of a person or group at a particular time.",
+Prophecy,A prediction of what will happen in the future.,
+Prophesy,To say that (a specified thing) will happen in the future.,
+Loath,Reluctant; unwilling.,
+Loathe,To feel intense dislike or disgust for.,
+Sensor,A device which detects or measures a physical property and records or responds to it.,
+Censor,An official who examines material that is about to be published and suppresses any parts that are considered obscene or politically unacceptable.,
+Censer,A container in which incense is burned.,
+Border,"A line separating two political or geographical areas, especially countries.",
+Boarder,"A person who receives regular meals when staying at somewhere, such as a school or guest house.",
+Cereal,"A grain used for food, such as wheat, oats, or corn.",
+Serial,"Consisting of, forming part of, or taking place in a series.",
+Continual,Frequently recurring; always happening.,
+Continuous,Forming an unbroken whole; without interruption.,
+Dual,"Consisting of two parts, elements, or aspects.",
+Duel,A prearranged contest with deadly weapons between two people in order to settle a point of honor.,
+Formerly,In the past; in earlier times.,
+Formally,In accordance with the rules of convention or etiquette.,
+Personal,Belonging to or affecting a particular person rather than anyone else.,
+Personnel,People employed in an organization or engaged in an organized undertaking.,
+Precede,To come before (something) in time.,
+Proceed,To begin or continue a course of action.,
+Overdue,"Not having arrived, happened, or been done by the expected time.",
+Overdo,"To do, use, or carry to excess.",
+Assure,To tell someone something positively or confidently to dispel any doubts they may have.,
+Ensure,To make certain that (something) shall occur or be the case.,
+Insure,"To arrange for compensation in the event of damage to or loss of (property), or injury to or the death of (someone), in exchange for regular payments.",
+Nauseated,Feeling as if one is about to vomit.,
+Nauseous,Causing nausea; offensive to the taste or smell.,
+Regrettably,In a way that is unfortunate or regrettable; unfortunately.,
+Regretfully,In a way that shows regret; with sadness or disappointment.,
+Scrimp,To be thrifty or parsimonious; to economize.,
+Skimp,"To expend or use less time, money, or material on something than is necessary in an attempt to economize.",
+Alter,"To change or cause to change in character or composition, typically in a comparatively small but significant way.",
+Altar,A table or flat-topped block used as the focus for a religious ritual.,
+Assume,"To suppose to be the case, without proof.",
+Presume,To suppose that something is the case on the basis of probability.,
+Base,"The lowest part or edge of something, especially the part on which it rests or is supported.",
+Bass,The lowest adult male singing voice.,
+Bazaar,A market in a Middle Eastern country.,
+Bizarre,"Very strange or unusual, especially so as to cause interest or amusement.",
+Compose,"To write or create (a work of art, especially music or poetry).",
+Comprise,To consist of; to be made up of.,
+Conscious,Aware of and responding to one's surroundings; awake.,
+Conscience,An inner feeling or voice viewed as acting as a guide to the rightness or wrongness of one's behavior.,
+Council,"An advisory, deliberative, or legislative body of people formally constituted and meeting regularly.",
+Counsel,"Advice, especially that given formally.",
+Homonym,Each of two or more words having the same spelling but different meanings and origins.,
+Homophone,"Each of two or more words having the same pronunciation but different meanings, origins, or spelling.",
+Homograph,Each of two or more words spelled the same but not necessarily pronounced the same and having different meanings and origins.,
+Intense,"Of extreme force, degree, or strength.",
+Intensive,Concentrated on a single area or subject or into a short time; very thorough or vigorous.,
+Intent,Intention or purpose.,
+Instant,Happening or coming immediately.,
+Instance,An example or single occurrence of something.,
+Hale,"(Of a person, especially an elderly one) strong and healthy.",
+Hail,Pellets of frozen rain which fall in showers from cumulonimbus clouds.,
+Mean,The average of a set of numbers.,
+Median,The middle value in a list of numbers ordered from lowest to highest.,
+Average,A number expressing the central or typical value in a set of data.,
+Peddle,"To try to sell (something, especially small goods) by going from house to house or place to place.",
+Pedal,A foot-operated lever or control.,
+Petal,"Each of the segments of the corolla of a flower, which are modified leaves and are typically colored.",
+Metaphor,A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable.,
+Simile,"A figure of speech involving the comparison of one thing with another thing of a different kind, used to make a description more emphatic or vivid (e.g., as brave as a lion).",
+Naval,Relating to a navy or navies.,
+Navel,A rounded knotty depression in the center of a person's belly where the umbilical cord was attached.,
+Quote,"To repeat or copy out (a group of words from a text or speech), typically with an indication that one is not the original author or speaker.",
+Quotation,A group of words taken from a text or speech and repeated by someone other than the original author or speaker.,
+Alternate,Occurring in turn repeatedly.,
+Alternative,(Of one or more things) available as another possibility.,
+Concurrent,"Existing, happening, or done at the same time.",
+Consecutive,Following each other continuously.,
+Grisly,Causing horror or disgust.,
+Gristly,Consisting of or containing gristle (cartilage).,
+Grizzly,Of a gray or grayish color.,
+Discreet,"Careful and circumspect in one's speech or actions, especially in order to avoid causing offense or to gain an advantage.",
+Discrete,Individually separate and distinct.,
+Empathy,The ability to understand and share the feelings of another.,
+Sympathy,Feelings of pity and sorrow for someone else's misfortune.,
+Faze,To disturb or disconcert (someone).,
+Phase,A distinct period or stage in a series of events or a process of change or development.,
+Historic,Famous or important in history.,
+Historical,Concerning history or past events.,
+Hone,To sharpen (a blade).,
+Home in,To move or be aimed toward a target or destination with great accuracy.,
+Legislature,The legislative body of a country or state.,
+Legislator,A person who makes laws; a member of a legislative body.,
+Palate,"The roof of the mouth, separating the cavities of the nose and the mouth in vertebrates.",
+Palette,A thin board or slab on which an artist lays and mixes colors.,
+Pallet,A straw mattress or a crude or makeshift bed.,
+Simple,Easily understood or done; presenting no difficulty.,
+Simplistic,Treating complex issues and problems as if they were much simpler than they really are.,
+Statue,"A carved or cast figure of a person or animal, especially one that is life-size or larger.",
+Statute,A written law passed by a legislative body.,
+Undo,"To unfasten, untie, or loosen (something).",
+Undue,Unwarranted or inappropriate because excessive or disproportionate.,
+Bare,(Of a person or part of the body) not clothed or covered.,
+Bear,To carry or support.,
+Lay,To put (something) down gently or carefully.,
+Lie,(Of a person or animal) to be in or assume a horizontal or resting position on a supporting surface.,
+Lone,Having no companions; solitary.,
+Loan,"A thing that is borrowed, especially a sum of money that is expected to be paid back with interest.",
+Lose,To be deprived of or cease to have or retain (something).,
+Loose,Not firmly or tightly fixed in place; detached or able to be detached.,
+Accept,To consent to receive (a thing offered).,
+Except,Not including; other than.,
+Affect,To have an effect on; make a difference to.,
+Effect,A change which is a result or consequence of an action or other cause.,
+Desert,"A barren area of landscape where little precipitation occurs and, consequently, living conditions are hostile for plant and animal life.",
+Dessert,The sweet course eaten at the end of a meal.,
+Farther,"At, to, or by a greater distance (used for physical distance).",
+Further,"At, to, or by a greater distance (used for metaphorical distance or ""more"").",
+Adopt,To legally take another's child and bring it up as one's own.,
+Adapt,To make (something) suitable for a new use or purpose; modify.,
+Capital,"The most important city or town of a country or region, usually its seat of government.",
+Capitol,A building in which a state legislative body meets.,
+Chord,"A group of (typically three or more) notes sounded together, as a basis of harmony.",
+Cord,"Thin, flexible string or rope made from several twisted strands.",
+Envy,"A feeling of discontented or resentful longing aroused by someone else's possessions, qualities, or luck.",
+Jealousy,The state or feeling of being jealous (fear of losing something you have to another).,
+Flair,A special or instinctive aptitude or ability for doing something well.,
+Flare,A sudden brief burst of bright light or fire.,
+Manner,A way in which a thing is done or happens.,
+Manor,A large country house with lands; the principal house of a landed estate.,
+Mantle,A loose sleeveless cloak or shawl.,
+Mantel,A shelf projecting from the wall above a fireplace.,
+Pore,"A minute opening in a surface, especially the skin of an organism.",
+Pour,To flow rapidly in a steady stream.,
+Principal,First in order of importance; main.,
+Principle,A fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning.,
+Stationary,Not moving or not intended to be moved.,
+Stationery,Writing paper and envelopes.,
+Troop,"A group of soldiers, especially a cavalry unit commanded by a captain.",
+Troupe,"A group of dancers, actors, or other entertainers who tour to different venues.",
+Bridal,Relating to a bride or a wedding.,
+Bridle,"The headgear used to control a horse, consisting of buckled straps to which a bit and reins are attached.",
+Allowed,Give (someone) permission to do something.,
+Aloud,Audibly; not silently or in a whisper.,
+Deer,"A hoofed grazing or browsing animal, with branched bony antlers that are shed annually and typically borne only by the male.",
+Dear,Regarded with deep affection; cherished.,
+Peak,The pointed top of a mountain.,
+Peek,"To look quickly, typically in a furtive manner.",
+Pique,To stimulate (interest or curiosity).,
+Especially,"Used to single out one person, thing, or situation over all others.",
+Specially,For a special purpose.,
+Gig,A light two-wheeled carriage pulled by one horse.,
+Jig,A lively dance with leaping movements.,
+Healthful,Conducive to good health.,
+Healthy,In good health.,
+Plain,Not decorated or elaborate; simple or ordinary in character.,
+Plane,A flat surface on which a straight line joining any two points on it would wholly lie.,
+Vain,"Having or showing an excessively high opinion of one's appearance, abilities, or worth.",
+Vein,"Any of the tubes forming part of the blood circulation system of the body, carrying in most cases oxygen-depleted blood toward the heart.",
+Vane,A broad blade attached to a rotating axis or wheel which pushes or is pushed by wind or water.,
+Cite,"To quote a passage, book, or author as evidence for an argument.",
+Site,"An area of ground on which a town, building, or monument is constructed.",
+Sight,The faculty or power of seeing; or a thing seen.,
+Contemptible,Deserving contempt; despicable.,
+Contemptuous,Showing contempt; being scornful or disrespectful.,
+Exalt,To hold someone or something in very high regard; to think or speak very highly of.,
+Exult,"To show or feel elation or jubilation, especially as the result of a success.",
+Incredible,Impossible to believe; or extraordinary.,
+Incredulous,Unwilling or unable to believe something.,
+Medal,"A metal disk with a design, given as a reward for bravery or achievement.",
+Meddle,To interfere in or busy oneself with something that is not one's business.,
+Mettle,A person's ability to cope well with difficulties or to face a demanding situation.,
+Persecute,"To subject someone to hostility and ill-treatment, especially because of race or religion.",
+Prosecute,To institute legal proceedings against a person or organization.,
+Respectfully,With deference and respect.,
+Respectively,Separately or individually and in the order already mentioned.,
+Broach,To raise a sensitive or difficult subject for discussion.,
+Brooch,An ornament fastened to clothing with a hinged pin and catch.,
+Abhorrent,Inspiring disgust and loathing; repugnant.,
+Aberrant,Departing from an accepted standard.,
+Allude,To suggest or call attention to indirectly; to hint at.,
+Elude,"To evade or escape from a danger, enemy, or pursuer, typically in a skillful way.",
+Allusion,An expression designed to call something to mind without mentioning it explicitly.,
+Illusion,A thing that is or is likely to be wrongly perceived or interpreted by the senses.,
+Delusion,An idiosyncratic belief or impression that is firmly maintained despite being contradicted by what is generally accepted as reality.,
+Amicable,(Of relations between people) having a spirit of friendliness; without serious disagreement.,
+Amiable,Having or displaying a friendly and pleasant manner.,
+Censor,An official who examines material to suppress parts considered unacceptable.,
+Censure,"To express severe disapproval of someone or something, typically in a formal statement.",
+Confident,Feeling or showing confidence in oneself; self-assured.,
+Confidant,"A person with whom one shares a secret or private matter, trusting them not to repeat it.",
+Correlation,A mutual relationship or connection between two or more things.,
+Corollary,A proposition that follows from one already proved.,
+Definitely,Without doubt; certainly.,
+Definitively,In a way that provides a final solution or end to a situation.,
+Figuratively,Used in a way that is departing from a literal use of words; metaphorically.,
+Literally,In a literal manner or sense; exactly.,
+Pragmatic,Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.,
+Dogmatic,Inclined to lay down principles as incontrovertibly true.,
+Decent,Conforming with generally accepted standards of respectable or moral behavior.,
+Descent,"An action of moving downward, dropping, or falling.",
+Dissent,To hold or express opinions that are at variance with those previously or officially expressed.,
+Precedent,An earlier event or action that is regarded as an example or guide to be considered in subsequent similar circumstances.,
+President,The elected head of a republican state.,
+Wreck,The destruction or breaking up of something.,
+Wreak,To cause a large amount of damage or harm.,
+Reek,To smell strongly and unpleasantly.,
+Ado,Trouble or difficulty; or a fuss.,
+Adieu,A French word used for goodbye.,
+Ambiguous,Open to more than one interpretation; having a double meaning.,
+Ambivalent,Having mixed feelings or contradictory ideas about something or someone.,
+Appraise,To assess the value or quality of.,
+Apprise,To inform or tell someone.,
+Connotation,An idea or feeling that a word invokes in addition to its literal or primary meaning.,
+Denotation,"The literal or primary meaning of a word, in contrast to the feelings or ideas that the word suggests.",
+Connote,(Of a word) to imply or suggest (an idea or feeling) in addition to the literal meaning.,
+Denote,To be a sign of; to indicate.,
+Demur,To raise doubts or objections or show reluctance.,
+Demure,"(Of a woman or her behavior) reserved, modest, and shy.",
+Wave,A long body of water curling into an arched form and breaking on the shore.,
+Waive,To refrain from insisting on or using (a right or claim).,
+Didactic,"Intended to teach, particularly in having moral instruction as an ulterior motive.",
+Pedantic,Of or like a pedant (a person who is excessively concerned with minor details and rules).,
+Disassemble,To take (something) to pieces.,
+Dissemble,"To conceal one's true motives, feelings, or beliefs.",
+Discomfit,To make someone feel uneasy or embarrassed.,
+Discomfort,Slight pain; or a state of being physically or mentally uneasy.,
+Disperse,To distribute or spread over a wide area.,
+Disburse,To pay out (money from a fund).,
+Eminent,(Of a person) famous and respected within a particular sphere or profession.,
+Imminent,About to happen.,
+Immanent,Existing or operating within; inherent.,
+Epidemic,A widespread occurrence of an infectious disease in a community at a particular time.,
+Pandemic,(Of a disease) prevalent over a whole country or the world.,
+Epigram,A pithy saying or remark expressing an idea in a clever and amusing way.,
+Epigraph,"An inscription on a building, statue, or coin.",
+Epitaph,"A phrase or form of words written in memory of a person who has died, especially as an inscription on a tombstone.",
+Epithet,An adjective or descriptive phrase expressing a quality characteristic of the person or thing mentioned.,
+Facetious,Treating serious issues with deliberately inappropriate humor; flippant.,
+Factious,Relating or inclined to a state of faction (a small organized dissenting group).,
+Fatuous,Silly and pointless.,
+Venal,Showing or motivated by susceptibility to bribery.,
+Venial,(Of a fault or offense) slight and pardonable.,
+Extant,(Especially of a document) still in existence; surviving.,
+Extent,The area covered by something.,
+Fractious,(Typically of children) irritable and quarrelsome.,
+Fortunate,Favored by or involving good luck or fortune; lucky.,
+Fortuitous,Happening by accident or chance rather than design.,
+Gambit,"A device, action, or opening remark, typically one entailing a degree of risk, that is calculated to gain an advantage.",
+Gamut,The complete range or scope of something.,
+Gibe,An insulting or mocking remark; a taunt.,
+Jibe,To be in accord; to agree.,
+Expedient,(Of an action) convenient and practical although possibly improper or immoral.,
+Expeditious,Done with speed and efficiency.,
+Indeterminate,"Not exactly known, established, or defined.",
+Indeterminable,"Not able to be definitely ascertained, calculated, or settled.",
+Indict,Formally accuse of or charge with a serious crime.,
+Indite,To write; to compose.,
+Inflammable,Easily set on fire.,
+Inflammatory,Relating to or causing inflammation of a part of the body; or arousing angry or violent feelings.,
+Ingenious,"(Of a person) clever, original, and inventive.",
+Ingenuous,(Of a person or action) innocent and unsuspecting.,
+Predominate,To be the strongest or main element; to be greater in number or amount.,
+Predominant,Present as the strongest or main element.,
+Insidious,"Proceeding in a gradual, subtle way, but with harmful effects.",
+Invidious,(Of an action or situation) likely to arouse or incur resentment or anger in others.,
+Laudable,"(Of an action, idea, or goal) deserving praise and commendation.",
+Laudatory,(Of speech or writing) expressing praise and commendation.,
+Luxuriant,(Of vegetation) rich and profuse in growth; lush.,
+Luxurious,"Extremely comfortable, elegant, or enjoyable, especially in a way that involves great expense.",
+Morbid,"Characterized by or appealing to an abnormal and unhealthy interest in disturbing and unpleasant subjects, especially death and disease.",
+Moribund,(Of a person) at the point of death.,
+Rebut,To claim or prove that (evidence or an accusation) is false.,
+Refute,To prove (a statement or theory) to be wrong or false; to disprove.,
+Tortuous,Full of twists and turns.,
+Torturous,"Characterized by, involving, or causing excruciating pain or suffering.",
+Turbid,"(Of a liquid) cloudy, opaque, or thick with suspended matter.",
+Turgid,Swollen and distended or congested.,
+Unconscionable,Not right or reasonable.,
+Unconscious,Not awake and aware of and responding to one's surroundings.,
+Unexceptional,Not out of the ordinary; usual.,
+Unexceptionable,"Not open to objection, but not particularly new or exciting.",
+Veracious,Speaking or representing the truth.,
+Voracious,Wanting or devouring great quantities of food.,
+Aver,To state or assert to be the case.,
+Avow,"To confess, open, or declare.",
+Abundant,Present in great quantity; more than adequate.,
+Ambiguous,Having more than one possible meaning; unclear.,
+Correlate,To have a mutual relationship or connection.,
+Differentiate,To recognize or ascertain what makes someone or something different.,
+Anomaly,"Something that deviates from what is standard, normal, or expected.",
+Meticulous,Showing great attention to detail; very careful and precise.,
+Discrepancy,A lack of compatibility or similarity between two or more facts.,
+Fleeting,Lasting for a very short time.,
+Spontaneous,Performed or occurring as a result of a sudden inner impulse.,
+Antagonize,To cause someone to become hostile.,
+Incremental,Increasing or adding on in small steps.,
+Feign,"To pretend to be affected by (a feeling, state, or injury).",
+Apprehensive,Anxious or fearful that something bad will happen.,
+Relegate,To consign or dismiss to an inferior rank or position.,
+Profound,Very great or intense; showing great knowledge or insight.,
+Proliferate,To increase rapidly in numbers; to multiply.,
+Relevant,Closely connected or appropriate to the matter at hand.,
+Assessment,"The evaluation or estimation of the nature, quality, or ability of someone.",
+Skeptical,Not easily convinced; having doubts or reservations.,
+Astute,Having or showing an ability to accurately assess situations.,
+Attribute,To regard something as being caused by someone or something.,
+Befall,To happen to someone (especially something bad).,
+Nonchalant,Feeling or appearing casually calm and relaxed.,
+Bolster,To support or strengthen; to prop up.,
+Coherent,Logical and consistent; easy to understand.,
+Potent,"Having great power, influence, or effect.",
+Precede,"To come before (something) in time, order, or position.",
+Consecutive,Following each other continuously; in unbroken or logical order.,
+Critical,Expressing adverse or disapproving comments or judgments.,
+Trivial,Of little value or importance.,
+Cumbersome,Large or heavy and therefore difficult to carry or use.,
+Deficit,The amount by which something is too small.,
+Stringent,"Strict, precise, and exacting (regarding regulations or requirements).",
+Deplore,To feel or express strong disapproval of.,
+Digress,To leave the main subject temporarily in speech or writing.,
+Inconceivable,Not capable of being imagined or grasped mentally.,
+Dynamic,"Characterized by constant change, activity, or progress.",
+Eclipse,An obscuring of the light from one celestial body by another.,
+Imminent,About to happen.,
+Eminent,Famous and respected within a particular sphere or profession.,
+Superficial,Existing or occurring at or on the surface.,
+Enigmatic,Difficult to interpret or understand; mysterious.,
+Tenuous,Very weak or slight; insubstantial.,
+Ethereal,Extremely delicate and light in a way that seems too perfect for this world.,
+Perpetual,Never ending or changing.,
+Ponder,"To think about (something) carefully, especially before making a decision.",
+Exacerbate,"To make (a problem, bad situation, or negative feeling) worse.",
+Adhere,To believe in and follow the practices of.,
+Aloof,Not friendly or forthcoming; cool and distant.,
+Compensate,"To give (someone) something, typically money, in recognition of loss.",
+Facilitate,To make (an action or process) easy or easier.,
+Fervent,Having or displaying a passionate intensity.,
+Glaring,Highly obvious or conspicuous.,
+Haphazard,Lacking any obvious principle of organization.,
+Impetuous,Acting or done quickly and without thought or care.,
+Contour,"An outline, especially one representing or bounding the shape or form of something.",
+Incendiary,Tending to stir up conflict; designed to cause fires.,
+Assimilate,To take in and understand fully; to absorb into a culture.,
+Incompetent,Not having or showing the necessary skills to do something successfully.,
+Inherent,"Existing in something as a permanent, essential, or characteristic attribute.",
+Inscrutable,Impossible to understand or interpret.,
+Devoid,Entirely lacking or free from.,
+Integrate,To combine (one thing) with another so that they become a whole.,
+Intuition,"The ability to understand something immediately, without the need for conscious reasoning.",
+Justify,To show or prove to be right or reasonable.,
+Latent,Existing but not yet developed or manifest; hidden or concealed.,
+Lethargic,Affected by lethargy; sluggish and apathetic.,
+Melancholy,"A feeling of pensive sadness, typically with no obvious cause.",
+Exploit,To make full use of and derive benefit from (a resource).,
+Mishap,An unlucky accident.,
+Nostalgia,A sentimental longing or wistful affection for the past.,
+Obsolete,No longer produced or used; out of date.,
+Obstruct,"To block (an opening, path, or road); to be or get in the way of.",
+Diffuse,To spread or cause to spread over a wide area or among a large number of people.,
+Orient,To align or position something relative to the points of a compass or other specified positions.,
+Paradox,A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.,
+Pensive,"Engaged in, involving, or reflecting deep or serious thought.",
+Precipitate,"To cause (an event or situation, typically one that is bad or undesirable) to happen suddenly, unexpectedly, or prematurely.",
+Contract,"A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.",
+Preclude,To prevent from happening; to make impossible.,
+Complement,A thing that completes or brings to perfection.,
+Proficient,Competent or skilled in doing or using something.,
+Disposition,A person's inherent qualities of mind and character.,
+Pungent,Having a sharply strong taste or smell.,
+Redundant,Not or no longer needed or useful; superfluous.,
+Corollary,A proposition that follows from one already proved.,
+Relinquish,To voluntarily cease to keep or claim; to give up.,
+Burgeon,To begin to grow or increase rapidly; to flourish.,
+Revitalize,To imbue (something) with new life and vitality.,
+Impervious,Not allowing fluid to pass through; unable to be affected by.,
+Rudimentary,Involving or limited to basic principles.,
+Sensory,Relating to sensation or the physical senses.,
+Solemn,Formal and dignified.,
+Condescending,Having or showing a feeling of patronizing superiority.,
+Static,"Lacking in movement, action, or change.",
+Sustainable,Able to be maintained at a certain rate or level.,
+Tentative,Not certain or fixed; provisional.,
+Engross,To absorb all the attention or interest of.,
+Transient,Lasting only for a short time; impermanent.,
+Superfluous,"Unnecessary, especially through being more than enough.",
+Adversary,Someone who offers opposition; an opponent or enemy.,
+Circumference,The size of something as given by the distance around it.,
+Commotion,A state of confused and noisy disturbance.,
+Copious,Large in number or quantity; abundant.,
+Exasperation,A feeling of intense irritation or annoyance.,
+Headway,Forward movement or progress.,
+Muster,To gather or bring together (especially troops or courage).,
+Serenity,"The state of being calm, peaceful, and untroubled.",
+Stamina,The physical or mental strength to sustain prolonged effort.,
+Translucent,"Allowing light, but not detailed images, to pass through.",
+Astute,Having or showing an ability to accurately assess situations.,
+Avert,To turn away (one's eyes or thoughts).,
+Destination,The place to which someone or something is going.,
+Diminish,To make or become less; to decrease.,
+Exhilarating,"Making one feel very happy, animated, or elated.",
+Loathe,To feel intense dislike or disgust for.,
+Luminous,Full of or shedding light; bright or shining.,
+Quell,To put an end to (a rebellion or other disorder).,
+Sociable,Willing to talk and engage in activities with others.,
+Uncanny,"Strange or mysterious, especially in an unsettling way.",
+Apprehensive,Anxious or fearful that something bad or unpleasant will happen.,
+Concoction,A mixture of various ingredients or elements.,
+Disdain,The feeling that someone or something is unworthy of respect.,
+Falter,To start to lose strength or momentum.,
+Malleable,Able to be hammered or pressed permanently out of shape.,
+Materialize,To appear or happen suddenly or unexpectedly.,
+Obscure,Not discovered or known about; uncertain.,
+Omniscient,Knowing everything; having infinite knowledge.,
+Somber,Dark or dull in color or tone; gloomy.,
+Unsightly,Unpleasant to look at; ugly.,
+Aptitude,A natural ability to do something.,
+Attentive,Paying close attention to something.,
+Foresight,The ability to predict what will happen or be needed in the future.,
+Habitation,The state or process of living in a particular place.,
+Illuminate,To help clarify or explain; to light up.,
+Impending,About to happen (often used for something unwelcome).,
+Implore,To beg someone earnestly or desperately to do something.,
+Ominous,Giving the impression that something bad is going to happen.,
+Pristine,In its original condition; unspoiled and clean.,
+Versatile,Able to adapt or be adapted to many different functions.,
+Admonish,To warn or reprimand someone firmly.,
+Coherent,Logical and consistent; easy to understand.,
+Conspicuous,Standing out so as to be clearly visible.,
+Contortion,A twisted or bent shape or state.,
+Demeanor,Outward behavior or bearing.,
+Dispel,"To make (a doubt, feeling, or belief) disappear.",
+Meander,To follow a winding course.,
+Recuperate,To recover from illness or exertion.,
+Replenish,To fill something up again.,
+Vigilant,Keeping careful watch for possible danger or difficulties.,
+Banish,To send (someone) away from a country or place as punishment.,
+Counter,To speak or act in opposition to.,
+Cunning,Having or showing skill in achieving one's ends by deceit.,
+Furtive,"Attempting to avoid notice or attention, typically out of guilt.",
+Meticulous,Showing great attention to detail; very careful and precise.,
+Persistent,Continuing firmly in an opinion or a course of action.,
+Relinquish,To voluntarily cease to keep or claim; to give up.,
+Repugnant,Extremely distasteful; unacceptable.,
+Subside,"To become less intense, violent, or severe.",
+Vulnerable,Susceptible to physical or emotional attack or harm.,
+Antagonize,To cause someone to become hostile.,
+Barricade,An improvised barrier erected across a street to prevent access.,
+Egregious,Outstandingly bad; shocking.,
+Grueling,Extremely tiring and demanding.,
+Jargon,Special words used by a particular profession or group.,
+Misgiving,A feeling of doubt or apprehension about the outcome of something.,
+Pertinent,Relevant or applicable to a particular matter.,
+Restitution,The restoration of something lost or stolen to its proper owner.,
+Waft,To pass or cause to pass gently through the air.,
+Waver,To shake with a quivering motion; to become unsteady.,
+Assimilate,To take in and understand fully; to absorb into a culture.,
+Debris,Scattered pieces of waste or remains.,
+Dissent,To hold or express opinions that are at variance with those held.,
+Gusto,Enjoyment or vigor in doing something.,
+Jostle,"To push, elbow, or bump against (someone) roughly.",
+Notorious,"Famous or well known, typically for some bad quality or deed.",
+Outlandish,Looking or sounding bizarre or unfamiliar.,
+Sabotage,"Deliberately destroy, damage, or obstruct (something).",
+Subordinate,Lower in rank or position.,
+Teem,To be full of or swarming with.,
+Defiance,Open resistance; bold disobedience.,
+Deft,Neatly skillful and quick in one's movements.,
+Dismal,Depressing; dreary.,
+Jut,"To extend out, over, or beyond the main body or line of something.",
+Momentum,The quantity of motion of a moving body.,
+Monotonous,"Dull, tedious, and repetitious; lacking in variety.",
+Naive,"Showing a lack of experience, wisdom, or judgment.",
+Scarcity,The state of being scarce or in short supply; shortage.,
+Tactic,A strategy carefully planned to achieve a specific end.,
+Weather,To wear away or change the appearance or texture of something.,
+Brandish,"To wave or flourish (something, often a weapon) as a threat.",
+Emerge,To move out of or away from something and come into view.,
+Engross,To absorb all the attention or interest of.,
+Hasten,To be quick to do something.,
+Impartial,Treating all rivals or disputants equally; fair and just.,
+Impede,To delay or prevent (someone or something) by obstructing them.,
+Kindle,To light or set on fire; to arouse or inspire (an emotion).,
+Multitude,A large number.,
+Terse,Sparing in the use of words; abrupt.,
+Zeal,Great energy or enthusiasm in pursuit of a cause or an objective.,
+accomplish,successfully complete,
+combination,a mix of things together,
+crucial,extremely important,
+duplicate,an exact copy,
+emerge,come into view,
+independent,not relying on others,
+overcome,successfully deal with,
+peculiar,strange or unusual,
+perplex,confuse greatly,
+sparse,thinly spread out,
+beckon,signal to come closer,
+bestow,give formally,
+challenge,a difficult task,
+decrease,become smaller,
+essential,absolutely necessary,
+gigantic,very large,
+intently,with focused attention,
+modest,not boastful; simple,
+resemble,look like,
+solemn,serious and quiet,
+accurate,correct and exact,
+culture,beliefs and customs of group,
+distract,draw attention away,
+frequent,happening often,
+hesitate,pause before acting,
+infuriate,make very angry,
+population,number of people,
+realistic,practical and believable,
+resource,useful supply,
+thrive,grow strongly,
+assure,promise confidently,
+comprehend,understand fully,
+establish,set up; create,
+exaggerate,make seem bigger,
+ignorant,lacking knowledge,
+immense,extremely large,
+ordeal,painful experience,
+strategy,careful plan,
+summon,call for,
+taunt,mock or tease,
+achievement,something accomplished,
+compose,create or write,
+extraordinary,very unusual,
+gape,stare with open mouth,
+gleeful,very happy,
+identify,recognize,
+persuade,convince,
+predict,say in advance,
+tolerate,put up with,
+vague,not clear,
+blurt,say suddenly,
+criticize,point out faults,
+flimsy,weak or thin,
+fortunate,lucky,
+illuminate,light up,
+intend,plan to do,
+mimic,copy behavior,
+ridicule,make fun of,
+trait,characteristic quality,
+utter,speak,
+adjust,change slightly,
+approve,agree or accept,
+conduct,carry out,
+conflict,serious disagreement,
+equivalent,equal in value,
+likely,probably,
+neglect,fail to care for,
+seldom,rarely,
+significant,important,
+vital,necessary for life,
+claim,state as true,
+context,surrounding details,
+debris,scattered remains,
+eerie,strangely frightening,
+graphic,clear and vivid,
+investigate,examine carefully,
+irregular,not even or usual,
+rustle,soft crackling sound,
+scrawny,thin and weak,
+wage,payment for work,
+affect,to influence,
+despair,loss of hope,
+detect,discover,
+external,outside,
+gleam,shine softly,
+internal,inside,
+peril,danger,
+restrict,limit,
+secure,safe; protected,
+summary,brief statement,
+coax,gently persuade,
+enhance,improve,
+exhibit,display,
+familiar,well known,
+ferocious,very fierce,
+murky,dark and unclear,
+outcome,result,
+restrain,hold back,
+sorrowful,very sad,
+sympathy,feeling compassion,
+appropriate,suitable,
+approximate,almost exact,
+conclude,bring to an end,
+erupt,burst out suddenly,
+grim,serious or harsh,
+imitate,copy,
+insist,demand firmly,
+sneer,smile mockingly,
+tuft,small bunch,
+unravel,untangle; solve,
+aggressive,ready to attack,
+anxious,worried,
+bewildered,confused,
+generosity,willingness to give,
+insight,deep understanding,
+pitiful,deserving sympathy,
+primary,most important,
+sincere,honest,
+sluggish,slow-moving,
+yearn,long strongly for,
+cringe,shrink in embarrassment,
+dismay,shock and worry,
+evidence,proof,
+express,show clearly,
+hoist,lift up,
+humiliate,make feel ashamed,
+practical,useful; sensible,
+puny,very small,
+seep,flow slowly,
+wistful,sadly longing,
+analyze,examine closely,
+assume,suppose without proof,
+devour,eat quickly,
+envious,jealous,
+influence,power to affect,
+prohibit,forbid,
+pry,look into secretly,
+recall,remember,
+regret,feel sorry about,
+wring,twist tightly,
+confide,share secret,
+dread,fear greatly,
+glimpse,quick look,
+glisten,shine softly,
+isolate,separate,
+option,choice,
+passage,section of text,
+smirk,self-satisfied smile,
+vast,very large,
+visual,related to sight,
+abundant,more than enough; plentiful,
+authentic,real; genuine,
+dedicate,give time or effort to something,
+efficient,working well with little waste,
+forfeit,lose something because of a rule or mistake,
+intention,plan or purpose,
+loathe,hate very much,
+makeshift,temporary substitute,
+meager,very small or not enough,
+perceive,notice or understand something,
+prominent,important or easily noticed,
+rigorous,very strict or thorough,
+stealthy,quiet and secretive,
+unanimous,fully in agreement,
+verify,check that something is true,
+accumulate,gather or collect more over time,
+beneficial,good or helpful,
+complexity,the state of being complicated,
+diverge,go in different directions,
+evade,avoid something intentionally,
+fatigue,extreme tiredness,
+haste,"quick action, often too fast",
+interpret,explain the meaning of something,
+mischievous,causing playful trouble,
+persevere,keep trying even when it’s hard,
+pulverize,crush into small pieces,
+refrain,stop yourself from doing something,
+reminisce,think back on past memories,
+solitude,being alone,
+treacherous,dangerous or unpredictable,
+bewilder,confuse completely,
+boycott,refuse to use or buy as protest,
+condemn,say that something is very bad,
+deteriorate,get worse over time,
+emit,"send out (like light, gas, sound)",
+feeble,weak and lacking strength,
+hoarse,rough or harsh sounding voice,
+intervene,come between to help or stop something,
+momentum,force that keeps something moving,
+persistent,not giving up easily,
+ration,limited amount allowed,
+reluctant,not willing to do something,
+scarce,hard to find or rare,
+subsequent,coming after something else,
+trudge,walk slowly with effort,
+acquire,get or obtain something,
+adapt,change to fit new conditions,
+consecutive,following one after another,
+determined,decided and not giving up,
+elaborate,having many details; complex,
+excel,do very well,
+hypothesis,a guessed explanation to test,
+intricate,very detailed or complex,
+mournful,very sad,
+optimistic,hopeful and positive,
+reassure,make someone feel less worried,
+sabotage,intentionally damage or harm,
+serene,calm and peaceful,
+sufficient,enough for a purpose,
+waver,move or change between options,
+adequate,good enough,
+contemplate,think deeply about something,
+devastate,destroy or severely upset,
+evaluate,judge or assess,
+factor,an element that contributes to a result,
+immature,not fully developed; childish,
+interject,insert a comment suddenly,
+linger,stay longer than expected,
+nurture,care for and encourage growth,
+precision,exactness and accuracy,
+rebellion,act of resisting authority,
+repetition,doing something again and again,
+shrill,high-pitched and sharp sound,
+symbol,something that stands for something else,
+unique,one of a kind,
+apparent,easy to see or understand,
+chronological,arranged by time order,
+commotion,"noisy, confused activity",
+controversy,disagreement among people,
+diminish,become smaller or weaker,
+flammable,able to catch fire easily,
+frigid,very cold,
+impair,make worse or weaken,
+prediction,a guess about the future,
+prejudice,unfair opinion not based on facts,
+represent,stand for or symbolize,
+stern,serious and strict,
+sympathetic,showing understanding of others’ feelings,
+unruly,not easily controlled,
+variable,something that can change,
+appease,calm or satisfy,
+arrogant,having too high an opinion of oneself,
+cultivate,prepare land or develop a skill,
+distinguish,see differences clearly,
+exempt,free from a rule or duty,
+frustration,feeling upset or annoyed,
+inevitable,certain to happen,
+lurch,move suddenly in an uncontrolled way,
+overwhelm,give too much to handle,
+reckless,acting without care for danger,
+recoil,spring back in fear or shock,
+resolve,decide firmly,
+spacious,large and roomy,
+tentative,not fully decided; hesitant,
+urgent,needing immediate attention,
+circumstance,conditions around an event,
+commence,begin or start,
+current,happening now,
+desperate,feeling a great need for something,
+extensive,covering a large area,
+glum,sad or gloomy,
+grimace,facial expression showing pain or disgust,
+inferior,lower in quality or rank,
+parched,very dry,
+plummet,fall quickly straight down,
+priority,most important thing to deal with,
+recount,tell or describe something,
+recurring,happening again and again,
+rummage,search by moving things around,
+stable,not likely to change; steady,
+terrain,land or ground,
+transmit,send from one place to another,
+viewpoint,way of looking at something,
+visibility,how clearly you can see,
+wither,dry up or fade away,
+abolish,to officially end or stop something,
+coherent,clear and logical,
+comprise,to include or be made up of,
+domestic,related to the home or country,
+earnest,serious and sincere,
+explicit,clearly expressed; easy to understand,
+impede,to slow down or block progress,
+instinctive,done naturally without thinking,
+nostalgic,feeling happy and sad about the past,
+prevail,to win or be strongest,
+relevant,connected to the matter at hand,
+somber,dark or serious in tone,
+stagnant,not moving or changing,
+turmoil,a state of confusion or disturbance,
+zeal,great enthusiasm,
+agile,quick and light in movement,
+chronic,continuing for a long time,
+dwindle,to shrink or become less,
+eccentric,unusual in a way that is interesting,
+flounder,to struggle awkwardly,
+impose,to force something on others,
+lax,not strict or careful,
+lull,a quiet pause or rest,
+meticulous,very careful and precise,
+oblige,to require someone to do something,
+plagiarize,to copy someone else’s work without credit,
+remnant,a small leftover piece,
+sophisticated,complex or refined,
+sustain,to keep going over time,
+versatile,able to do many different things,
+askew,not straight; tilted,
+contemporary,belonging to the same time period,
+crude,not carefully made; rough,
+defiant,refusing to obey,
+fluctuate,to move up and down unpredictably,
+haphazard,without a plan; random,
+inconceivable,impossible to imagine,
+jeer,to mock loudly,
+lenient,not strict; tolerant,
+obliterate,to completely destroy,
+predicament,a difficult situation,
+resilience,ability to recover from problems,
+sprawl,to spread out carelessly,
+tarnish,to dull or damage reputation,
+vigilant,watchful for danger,
+astride,with a leg on each side of something,
+clamor,a loud and noisy outcry,
+converge,to come together at one point,
+delegate,to give tasks to others,
+elated,very happy and excited,
+forsake,to abandon or leave behind,
+incorporate,to include or blend in,
+jostle,to push or shove roughly,
+lapse,a temporary break or slip,
+liable,likely to do something,
+oblivious,unaware of what’s happening,
+rural,related to the countryside,
+taut,pulled tight; not loose,
+veer,to change direction suddenly,
+vulnerable,open to harm or attack,
+benevolent,kind and generous,
+blunt,direct and plain in speech,
+censorship,removing parts of books or media,
+contract,to shrink or tighten,
+diligent,hardworking and careful,
+embellish,to add decorative details,
+endure,to suffer through or last,
+fugitive,someone trying to escape law,
+inexplicable,unable to be explained,
+intrigue,to cause curiosity or interest,
+obscure,not easily understood or seen,
+prod,to poke or urge forward,
+torrent,"a strong, fast flow",
+tranquil,calm and peaceful,
+warily,with careful caution,
+blemish,a mark that spoils appearance,
+colossal,extremely large,
+conscious,aware of one’s surroundings,
+discipline,self-control; training to follow rules,
+gingerly,very careful and cautious,
+infringe,to violate or interfere with,
+judicial,related to courts or judges,
+jut,to stick out,
+mediocre,average or not very good,
+ominous,suggesting something bad will happen,
+protrude,to stick out noticeably,
+sheepish,embarrassed or shy,
+stricken,deeply affected by emotion or trouble,
+stupendous,amazing and impressive,
+whim,"a sudden, playful idea",
+compatible,able to work well together,
+convey,to communicate or express,
+disdain,strong dislike or contempt,
+entail,to involve as a necessary part,
+grueling,very tiring and difficult,
+ingenious,very clever or inventive,
+juvenile,young; immature,
+melancholy,sad and thoughtful,
+oppress,to treat harshly and unfairly,
+rebellious,resisting authority,
+scorn,open dislike or disrespect,
+smug,self-satisfied in a bad way,
+subside,to become less intense,
+tumultuous,noisy and chaotic,
+wispy,thin and fine,
+calamity,a terrible disaster,
+casual,relaxed; not formal,
+chortle,"a joyful, breathy laugh",
+cower,to cringe or shrink down,
+curt,short and rude in speech,
+dormant,temporarily inactive,
+dubious,doubtful or uncertain,
+falter,to hesitate or weaken,
+idle,not active; doing nothing,
+keen,very eager or sharp,
+lament,to express sorrow,
+ornate,decorated with many details,
+perpetual,lasting forever,
+recede,to move back or away,
+relentless,never stopping,
+sociable,friendly and enjoys company,
+sullen,silently gloomy,
+unfurl,to unfold or spread out,
+waft,to float gently through the air,
+writhe,to twist in pain or discomfort,
+abate,to become less strong,
+assimilate,to absorb or make alike,
+concede,to admit as true,
+dissipate,to scatter or spread out,
+erratic,not consistent; irregular,
+flourish,to grow well,
+impulsive,acting without thinking,
+longevity,long life,
+malleable,able to be shaped,
+obstruct,to block or get in the way,
+render,to cause to become,
+rueful,feeling regret,
+subordinate,lower in rank,
+tarry,to delay leaving,
+transgression,a breaking of a rule,
+adamant,refusing to be persuaded,
+audacious,bold and daring,
+concise,short and to the point,
+elusive,hard to find or catch,
+exasperate,to annoy greatly,
+foolhardy,recklessly bold,
+gnarled,twisted and rough,
+implore,to beg earnestly,
+impudent,rude or disrespectful,
+mandatory,required by rule or law,
+pensive,deep in thought,
+reprieve,a short delay from punishment,
+shrewd,showing sharp judgment,
+succinct,brief and clear,
+tedious,boring because too long,
+belligerent,angry and ready to fight,
+benign,kind and harmless,
+ecstatic,very happy,
+emaciated,very thin from lack of food,
+exploit,to use something for benefit,
+formidable,strong and intimidating,
+haughty,proud in a rude way,
+initiative,the ability to start something,
+monotonous,always the same; boring,
+pervasive,spreading throughout,
+resent,to feel bitterness,
+succumb,to give in,
+sully,to dirty or damage,
+teem,to be full of,
+usurp,to take by force,
+accustom,to make familiar,
+affluent,having lots of wealth,
+conspicuous,easy to notice,
+eddy,a small circular current,
+exuberant,very energetic and happy,
+furtive,done quietly to avoid notice,
+havoc,chaotic destruction,
+innate,"natural, not learned",
+petulant,easily annoyed,
+profound,very deep or intense,
+respite,a short rest,
+squalor,"filthy, miserable conditions",
+telltale,revealing; showing something,
+threadbare,worn out from use,
+undulate,to move in waves,
+aloof,not friendly; distant,
+amiable,friendly,
+dainty,small and delicate,
+ebb,to flow back or lessen,
+exult,to rejoice greatly,
+gait,manner of walking,
+headlong,with great speed,
+insolent,boldly disrespectful,
+motivate,to give reason to act,
+muse,to think deeply,
+revelation,a surprising realization,
+stifle,to suppress,
+synopsis,a brief summary,
+wallow,to indulge deeply,
+wane,to decrease,
+billow,to swell with air or wind,
+bleak,cold and bare,
+concession,something granted,
+deft,skillful and quick,
+feasible,possible and practical,
+gaudy,showy in a tasteless way,
+gaunt,very thin and bony,
+inundate,to flood,
+oblique,slanted; indirect,
+obsolete,out of date,
+roil,to make muddy or upset,
+strenuous,requiring effort,
+systematic,done in a careful order,
+temperate,moderate; not extreme,
+tendril,a slender climbing part of a plant,
+anecdote,a short personal story,
+brusque,abruptly blunt,
+dejected,sad and depressed,
+emphatic,expressed strongly,
+feign,to pretend,
+impassive,showing no emotion,
+implicit,implied though not plainly stated,
+quaver,to tremble in speaking,
+quibble,to argue about small things,
+ruddy,reddish in color,
+strew,to scatter around,
+tangible,able to be touched,
+taper,to become thin at the ends,
+terse,brief and to the point,
+wily,clever and deceptive,
+apathy,lack of interest,
+apt,appropriate or fitting,
+candid,open and honest,
+chastise,to scold harshly,
+desolate,empty and sad,
+endeavor,to try hard,
+fleeting,lasting for a short time,
+glean,to gather bit by bit,
+glower,to stare angrily,
+incessant,never stopping,
+listless,without energy,
+loll,to sit or lie lazily,
+obstinate,stubborn,
+painstaking,very careful,
+qualm,a feeling of doubt,
+reverence,deep respect,
+sheer,complete; pure,
+smolder,to burn slowly,
+throng,a large crowd,
+wry,twisted in expression,
+abhor,to hate deeply,
+ambiguous,having more than one meaning; unclear,
+appalled,shocked and dismayed,
+besiege,to surround and attack,
+comprehensive,complete; covering all parts,
+conviction,a strong belief,
+demeanor,outward behavior or attitude,
+diligent,hard-working,
+elude,to escape from,
+exacerbate,to make worse,
+fortitude,strength in facing difficulty,
+implication,a possible effect or result,
+insidious,harmful in a subtle way,
+nonchalant,coolly unconcerned,
+oblivion,state of being forgotten,
+proficient,skilled and competent,
+rectify,to correct,
+retort,"a quick, sharp reply",
+speculative,involving guesses rather than facts,
+sporadic,happening occasionally,
+alleviate,to make less severe,
+annihilate,to destroy completely,
+archaic,very old; no longer in use,
+blatant,obvious in an offensive way,
+concur,to agree,
+cordial,warm and friendly,
+defunct,no longer existing,
+diplomatic,skilled at dealing with people,
+emulate,to imitate with the aim to equal,
+exemplify,to serve as an example,
+heterogeneous,made up of unlike parts,
+homogeneous,of the same kind,
+irksome,annoying,
+multifarious,having many different parts,
+omnipotent,all-powerful,
+prerequisite,something required beforehand,
+redemption,saving or being saved from error,
+reverberate,to echo or resound,
+surpass,to exceed,
+undermine,to weaken,
+aesthetic,related to beauty or art,
+altercation,a noisy argument,
+aspire,to seek ambitiously,
+callous,cruelly insensitive,
+concurrent,happening at the same time,
+covert,hidden; secret,
+defile,to make dirty or pollute,
+disconcerting,causing discomfort or confusion,
+ensue,to follow as a result,
+fallibility,the ability to be wrong,
+incredulous,unable to believe; skeptical,
+indigenous,native to a particular region,
+irrevocable,unable to be changed,
+notorious,famous for something bad,
+omniscient,all-knowing,
+persecute,to harass because of differences,
+refute,to prove wrong,
+rotund,round in shape,
+stratagem,a deceptive plan,
+vexation,annoyance or worry,
+afflict,to cause pain or suffering,
+anomaly,something unusual,
+avid,very eager,
+cognizant,aware,
+consolation,comfort after disappointment,
+credible,believable; trustworthy,
+denounce,to condemn openly,
+discordant,harsh or disagreeing in sound,
+enumerate,to count or list,
+forlorn,lonely and hopeless,
+immaculate,perfectly clean,
+jocular,playful; humorous,
+jubilance,joyful celebration,
+nefarious,wicked,
+politic,prudent; tactful,
+proponent,supporter of something,
+relinquish,to give up,
+sage,wise person,
+tremulous,shaking from fear,
+vindictive,seeking revenge,
+abyss,a very deep chasm,
+antagonism,active hostility,
+befuddled,confused,
+compensate,to make up for,
+conspire,to plan secretly,
+creed,a set of beliefs,
+derogatory,showing disrespect,
+disparity,difference; inequality,
+equitable,fair; just,
+harrowing,very distressing,
+impediment,a barrier or obstacle,
+industrious,hard-working,
+infamous,well-known for bad reasons,
+malign,to speak harmful lies,
+perturb,to disturb greatly,
+reciprocal,mutual; shared,
+repentant,feeling sorry for wrongdoing,
+salutation,a greeting,
+surreal,beyond real; strange,
+vitality,energy; liveliness,
+allocate,to distribute resources,
+apathetic,showing no interest,
+begrudge,to resent another’s success,
+composite,made up of different parts,
+contempt,hatred or disdain,
+cynical,distrusting human sincerity,
+detract,to take away value,
+eloquent,expressive and persuasive,
+erroneous,incorrect,
+giddy,dizzy; light-headed,
+implausible,not believable,
+inquisitive,curious; eager to learn,
+lavish,extravagantly generous,
+myopic,short-sighted; narrow-minded,
+plausible,seeming reasonable,
+reconciliation,restoring harmony,
+retaliate,to strike back,
+solace,comfort in grief,
+transcend,to go beyond limits,
+vivacious,lively and animated,
+acquiesce,to agree or accept without protest,
+ardent,showing strong feeling; passionate,
+bravado,a bold show meant to impress,
+complacent,"pleased with oneself, often without awareness of problems",
+conscientious,careful and responsible,
+cynicism,a belief that people are motivated by self-interest,
+docile,easy to teach or control,
+err,to make a mistake,
+frivolous,not serious; silly,
+frugal,careful with money; not wasteful,
+inept,clumsy or unskilled,
+meander,to wander slowly without direction,
+mnemonic,a device that helps memory,
+ostentatious,showy in a way meant to attract attention,
+palpable,able to be felt or touched,
+pervade,to spread throughout,
+repudiate,to reject as untrue or unacceptable,
+slovenly,messy or careless in appearance,
+supersede,to replace something older or less effective,
+vanquish,to defeat completely,
+aggregate,to gather into a whole,
+arduous,very difficult; requiring effort,
+cacophony,a harsh mixture of sounds,
+conceive,to form an idea,
+contemptuous,showing deep dislike,
+dilapidated,in poor condition due to age or neglect,
+effervescent,bubbly or lively,
+erudite,showing deep knowledge,
+fervent,having strong emotion,
+incongruous,not in harmony or order,
+iniquity,great unfairness or wickedness,
+lucrative,producing a lot of profit,
+myriad,a very large number,
+ostracize,to exclude from a group,
+pertinent,relevant to the matter at hand,
+quandary,a state of confusion or doubt,
+rescind,to cancel officially,
+surmise,to guess based on little evidence,
+tactful,showing sensitivity in dealing with others,
+vehement,showing strong feeling; forceful,
+adulterate,to make impure by adding inferior elements,
+ascertain,to find out for sure,
+cajole,to persuade by flattery or gentle urging,
+condescend,to act as if lowering oneself to others,
+copious,large in quantity,
+corroborate,to support with evidence,
+dictum,an authoritative statement,
+egalitarian,believing in equal rights,
+exaltation,a feeling of great joy,
+fortuitous,happening by lucky chance,
+imperious,arrogantly commanding,
+insinuate,to suggest indirectly,
+mutinous,rebelling against authority,
+prevailing,most common or widespread,
+punctilious,very attentive to detail,
+rapport,a friendly relationship,
+scrutinize,to examine closely,
+taciturn,habitually quiet,
+ungainly,awkward in movement,
+vilify,to speak badly about someone,
+amenable,willing to agree or be led,
+barrage,"a rapid, heavy outpouring",
+candor,honesty; openness,
+conflagration,a large destructive fire,
+deleterious,harmful to health or well-being,
+elucidate,to explain clearly,
+exemplary,serving as a good example,
+gesticulate,to make gestures while speaking,
+impervious,not affected or penetrated,
+insipid,not interesting or flavorful,
+lucid,clear and easy to understand,
+magnanimous,generous and forgiving,
+misgiving,a feeling of doubt or worry,
+penitent,feeling sorry for wrongdoing,
+prudent,showing good judgment,
+reprehensible,deserving blame,
+umbrage,offense or annoyance,
+uncouth,rude or awkward in behavior,
+unilateral,done by one side only,
+vindicate,to clear from blame or suspicion,
+antipathy,a strong dislike,
+boisterous,noisy and energetic,
+cantankerous,bad-tempered and argumentative,
+conformity,following rules or norms,
+covet,to desire something belonging to another,
+discern,to detect or recognize,
+endear,to make beloved,
+expedite,to speed up a process,
+fawning,displaying exaggerated flattery,
+hegemony,leadership or dominance especially by one group,
+intermittent,occurring at irregular intervals,
+morbid,associated with disease or death,
+odious,extremely unpleasant,
+permeate,to spread through,
+prodigious,remarkably large or impressive,
+reprimand,a severe rebuke,
+sojourn,a temporary stay,
+tractable,easy to control or influence,
+unobtrusive,not attracting attention,
+whimsical,playfully unusual or imaginative,
+apprehensive,anxious about the future,
+buttress,to support or strengthen,
+cleave,to split or adhere closely,
+congenial,pleasant because of similarity,
+crestfallen,sad and disappointed,
+dissent,disagreement,
+enigmatic,mysterious; hard to understand,
+facilitate,to make easier,
+genial,friendly and cheerful,
+indignant,angry at unfair treatment,
+languid,lacking energy,
+mitigate,to lessen in severity,
+opulent,rich and luxurious,
+pious,devoutly religious,
+procure,to obtain with effort,
+reproach,to express disapproval,
+stoic,enduring pain without showing feelings,
+trepidation,a feeling of fear,
+unscrupulous,without moral principles,
+zealot,a person who is fanatically devoted to a cause,
+accost,"to approach and speak to someone, usually aggressively",
+ambivalent,having mixed feelings or undecided,
+austere,very simple; without decoration,
+brevity,briefness; the quality of being short,
+censure,strong disapproval; harsh criticism,
+compulsory,required by law or rule,
+didactic,"intended to teach, sometimes too much",
+digress,to stray from the main topic,
+elicit,to draw out a response,
+faction,a small group within a larger group,
+flagrant,obviously wrong or offensive,
+flippant,not showing a serious attitude,
+inflection,change in pitch or tone of speech,
+laudable,deserving praise,
+mortification,a feeling of great embarrassment,
+plaintive,expressing sadness or sorrow,
+prerogative,a special right or privilege,
+rancor,deep-seated resentment or bitterness,
+satiate,to satisfy fully,
+superfluous,more than is needed,
+acrid,bitter and sharp in taste or smell,
+ameliorate,to make something better,
+auspicious,showing signs of future success,
+brazen,bold and without shame,
+circumspect,careful to consider all risks,
+dearth,a lack or scarcity,
+disparage,to speak of negatively,
+dogmatic,asserting opinions strongly as if facts,
+empirical,based on observation or experience,
+fastidious,very attentive to detail,
+goad,to provoke into action,
+guile,clever but deceitful behavior,
+indoctrinate,to teach a set of beliefs persistently,
+intimate,to suggest indirectly,
+nebulous,unclear or vague,
+portend,to be a sign of something coming,
+pretext,a false reason given to hide the real one,
+rapacious,aggressively greedy,
+scintillating,sparkling or brilliantly clever,
+tenet,a principle or belief held as true,
+anachronistic,out of place in time,
+ardor,intense passion or enthusiasm,
+asunder,apart; into pieces,
+bequeath,to leave property by will,
+credulous,too ready to believe; gullible,
+demure,"quiet, modest, and reserved",
+discourse,written or spoken communication,
+duplicity,deceitfulness; double-dealing,
+enmity,hostility or hatred,
+felicity,intense happiness,
+implacable,unable to be soothed,
+inordinate,excessive; beyond reasonable limits,
+interdict,to forbid or prohibit,
+jaunty,"having a cheerful, lively manner",
+pall,to lose strength or interest,
+precarious,dangerously uncertain,
+profane,showing disrespect for sacred things,
+rapt,fully absorbed or delighted,
+scruple,a moral hesitation about something,
+usurpation,to seize and hold by force,
+admonish,to warn or reprimand gently,
+approbation,approval or praise,
+avarice,extreme greed for wealth,
+buffet,to strike repeatedly,
+consign,to hand over permanently,
+deplorable,deserving strong condemnation,
+dote,to show excessive fondness,
+ebullience,high spirits; enthusiasm,
+expostulate,to disagree with reasoning,
+germane,relevant to the matter at hand,
+gilded,covered thinly with gold; wealthy,
+impertinence,rudeness; lack of respect,
+inclement,"severe, harsh weather",
+livid,furiously angry or discolored,
+pallor,unnatural paleness,
+precept,a rule guiding behavior,
+propensity,a natural inclination,
+relegate,to assign to a lower position,
+spurn,to reject with contempt,
+vex,to annoy or frustrate,
+acrimonious,angry and bitter in tone,
+affable,friendly and easy to talk to,
+belie,to give a false impression,
+cadence,a rhythmic flow of sound,
+contend,to assert or argue,
+derision,mockery or ridicule,
+disseminate,to spread widely,
+edict,an official order,
+extraneous,not essential or related,
+hiatus,a break or pause in activity,
+imbue,to fill with a quality,
+invective,"abrasive, critical language",
+languorous,lacking energy; sluggish,
+lurid,shocking or sensational,
+partisan,strong supporter of a cause,
+precipitate,to cause suddenly,
+provincial,limited in outlook; unsophisticated,
+sagacious,wise; showing good judgment,
+stolid,showing little emotion,
+visage,a person’s face,
+allay,to calm; reduce fear or anxiety,
+asinine,foolish; silly,
+bemused,confused or lost in thought,
+castigate,to criticize severely,
+contrive,to plan cleverly,
+despotic,ruling with absolute power,
+doggedly,with stubborn determination,
+egregious,extraordinarily bad,
+exude,to give off a strong feeling,
+forbear,to refrain from,
+ignominious,deserving public shame,
+indolent,lazy; avoiding work,
+irascible,easily angered,
+morose,sullen and gloomy,
+pecuniary,related to money,
+predilection,a strong preference,
+pugnacious,eager to fight,
+reproof,expression of blame,
+stupor,a state of reduced consciousness,
+viscous,thick and sticky in consistency,
+abject,extremely bad or miserable,
+avail,to help or benefit; use to one’s advantage,
+capitulate,to surrender or give up resistance,
+cursory,quick and not thorough,
+deference,respectful submission or yielding,
+discrete,separate and distinct,
+ephemeral,lasting a very short time,
+errant,wandering or straying from proper course,
+expedient,"useful, often for one’s own purpose",
+gratuitous,unnecessary and uncalled for,
+inimical,tending to harm or oppose,
+levity,lack of seriousness,
+peremptory,insisting on immediate attention or obedience,
+poignant,deeply moving or touching,
+purport,to claim or appear to be something,
+reticent,not revealing one’s thoughts readily,
+sinewy,strong and muscular,
+sublime,of great excellence or beauty,
+tenuous,very weak or slight,
+venerable,worthy of respect due to age or wisdom,
+arbitrary,based on random choice rather than reason,
+banal,boringly predictable; unoriginal,
+capricious,changing suddenly without reason,
+conjecture,an opinion or guess without proof,
+decorous,in keeping with good taste; proper,
+embroil,to involve in conflict,
+edification,moral or intellectual improvement,
+esoteric,intended for a small knowledgeable group,
+fitful,irregular; intermittent,
+garish,tastelessly bright or showy,
+hackneyed,overused and unoriginal,
+obsequious,excessively eager to please,
+perfunctory,"done superficially, without care",
+prevaricate,to lie or mislead,
+sagacity,wisdom and good judgment,
+sordid,morally distasteful; dirty,
+strident,loud and harsh in sound or tone,
+supercilious,behaving as if better than others,
+torpor,a state of inactivity or sluggishness,
+vestige,a trace or leftover sign of something,
+alacrity,cheerful eagerness or readiness,
+bearing,demeanor; the way one carries oneself,
+circuitous,roundabout; not direct,
+conciliatory,intended to placate or calm,
+consternation,feeling of anxiety or dismay,
+diffident,shy or lacking confidence,
+enjoin,to instruct or urge someone firmly,
+estimable,worthy of respect,
+forbearance,patience or self-control,
+iconoclast,one who attacks traditional ideas,
+lassitude,a state of physical or mental weariness,
+obstreperous,noisy and difficult to control,
+pique,a feeling of irritation or resentment,
+profligate,recklessly wasteful or immoral,
+quotidian,ordinary; everyday,
+rancorous,full of bitterness or resentment,
+specious,seemingly plausible but false,
+supplication,a humble plea or request,
+trite,overused and unoriginal,
+vicarious,experienced through another’s actions,
+assiduous,showing great care and perseverance,
+bode,to indicate or foreshadow something,
+circumvent,to find a way around; avoid,
+cogent,convincing and well-reasoned,
+deign,to do something beneath one’s dignity,
+disingenuous,not candid or sincere,
+euphemism,a mild alternative to a harsh term,
+fractious,irritable and quarrelsome,
+impute,to attribute responsibility,
+inured,used to something unpleasant,
+obeisance,a gesture of respect,
+officious,too eager to offer unwanted help,
+pedantic,overly concerned with rules,
+propriety,the state of being proper,
+recalcitrant,stubbornly resisting authority,
+sanguine,optimistically cheerful,
+scrupulous,very careful about morals or details,
+surreptitious,secretive; stealthy,
+vicissitude,a change of circumstances,
+willful,deliberate; intentional,
+assuage,to ease or relieve,
+brandish,to wave or flourish menacingly,
+contingent,dependent on something else,
+contrite,feeling regret for wrongdoing,
+disabuse,to free from a false belief,
+dissemble,to disguise one’s true intent,
+epithet,a descriptive phrase about someone,
+exhort,to strongly encourage,
+inculcate,to teach by repetition,
+mollify,to calm or soothe,
+ornery,bad-tempered and stubborn,
+posterity,all future generations,
+prosaic,dull; unimaginative,
+redolent,strongly reminiscent or scented,
+repose,rest; peaceful calm,
+sedulous,persistent and hardworking,
+spurious,not genuine; false,
+tacit,understood without being stated,
+vacillate,to waver between choices,
+wanton,recklessly excessive or unprovoked,
+austerity,sternness or strictness in attitude,
+canvass,to solicit opinions or votes,
+commensurate,proportionate; corresponding in size,
+countenance,facial expression or support,
+demur,to object or hesitate,
+deprecate,to express disapproval,
+dissolute,lacking moral restraint,
+equivocal,ambiguous; open to interpretation,
+exigent,urgent or demanding,
+garrulous,"talkative, often excessively",
+inextricable,impossible to disentangle,
+nascent,just coming into existence,
+precocious,advanced in development,
+presentiment,a feeling that something is about to happen,
+prostrate,lying flat in submission or exhaustion,
+sidle,to move sideways quietly,
+solicitous,showing care or concern,
+temerity,reckless boldness,
+upbraid,to scold or criticize harshly,
+vapid,lacking liveliness or interest,
